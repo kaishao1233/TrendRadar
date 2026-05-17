@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T17:21:39.595944+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-05-17T18:50:06.344406+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 49,
       "titles": [
         {
           "title": "谈判濒临破裂，美以被曝最早下周恢复对伊朗打击，选项包括地面夺取核材料",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 17时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 18时50分]"
         },
         {
           "title": "消息人士：美以或最早下周恢复对伊朗军事行动",
@@ -125,15 +125,26 @@
           "time_info": "[03时53分 ~ 15时26分]"
         },
         {
-          "title": "伊朗议长卡利巴夫被任命为对华事务特别代表",
-          "url": "https://flash.jin10.com/detail/20260517170237212800",
-          "source": "金十数据",
+          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
+          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时08分 ~ 18时50分]"
+        },
+        {
+          "title": "伊朗军方：若美国再次发起军事行动将面临“进攻性回应”",
+          "url": "https://wallstreetcn.com/livenews/3104871",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时21分"
+          "time_info": "18时50分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：世界正站在新秩序的开端。未来属于全球南方国家。",
@@ -192,6 +203,55 @@
           "time_info": "[03时53分 ~ 08时08分]"
         },
         {
+          "title": "伊朗称美方对伊朗提出5个关键条件",
+          "url": "https://wallstreetcn.com/livenews/3104869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时50分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时50分]"
+        },
+        {
+          "title": "伊朗军方：若美国再次发起军事行动将面临“进攻性回应”",
+          "url": "https://flash.jin10.com/detail/20260517181300012800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "巴基斯坦内政部长到访伊朗 讨论边境安全等问题",
           "url": "https://flash.jin10.com/detail/20260517042540148800",
           "source": "金十数据",
@@ -206,15 +266,16 @@
           "time_info": "[05时01分 ~ 08时08分]"
         },
         {
-          "title": "伊朗与阿联酋爆发言辞冲突，金砖外长会未发表联合公报",
-          "url": "https://news.ifeng.com/c/8tBrZpkE9r7",
-          "source": "凤凰网",
+          "title": "伊朗议长卡利巴夫被任命为对华事务特别代表",
+          "url": "https://flash.jin10.com/detail/20260517170237212800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 17时21分]"
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时50分]"
         },
         {
           "title": "伊朗媒体：欧洲方面已开始就霍尔木兹海峡通行问题与革命卫队接触",
@@ -240,32 +301,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 03时53分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 17时21分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189620",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 17时21分]"
         },
         {
           "title": "美国怀疑伊朗黑客入侵多州加油站燃油监测系统",
@@ -318,6 +353,17 @@
           "time_info": "[15时26分 ~ 17时21分]"
         },
         {
+          "title": "伊朗议长任对华事务特别代表",
+          "url": "https://www.toutiao.com/trending/7640664662967156786/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 18时50分]"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗西北部一家发动机油厂火灾已完全扑灭，未报告伤亡情况。",
           "url": "https://flash.jin10.com/detail/20260517002017095800",
           "source": "金十数据",
@@ -342,6 +388,17 @@
           "time_info": "[01时41分 ~ 02时43分]"
         },
         {
+          "title": "伊朗一电视台直播教用AK47",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E4%B8%80%E7%94%B5%E8%A7%86%E5%8F%B0%E7%9B%B4%E6%92%AD%E6%95%99%E7%94%A8AK47%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 18时50分]"
+        },
+        {
           "title": "高盛：当前市场最大威胁是“伊朗风险叠加利率风暴”，股市再涨也会波动加大",
           "url": "https://wallstreetcn.com/articles/3772420",
           "source": "华尔街见闻",
@@ -364,6 +421,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "伊朗议长谴责以色列“违反承诺”",
+          "url": "https://wallstreetcn.com/livenews/3104862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "伊朗宣布5月19日起恢复股市交易",
           "url": "https://www.douyin.com/hot/2501755",
           "source": "抖音",
@@ -375,13 +443,35 @@
           "time_info": "15时26分"
         },
         {
+          "title": "伊朗议长卡利巴夫被任命为对华事务特别代表",
+          "url": "https://wallstreetcn.com/livenews/3104860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "据以色列广播公司：以色列总理内塔尼亚胡今晚将召开关于伊朗的安全会议。",
+          "url": "https://flash.jin10.com/detail/20260517180604654800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "伊朗南部省份发生客车侧翻事故 已致7人死亡",
           "url": "https://flash.jin10.com/detail/20260517154832016800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         },
@@ -408,6 +498,28 @@
           "time_info": "00时38分"
         },
         {
+          "title": "伊朗称美方对伊朗提出5个关键条件",
+          "url": "https://flash.jin10.com/detail/20260517174530685800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：美方在（对伊朗的）回复中拒绝解冻伊朗25%的冻结资金。",
+          "url": "https://flash.jin10.com/detail/20260517174008921800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "伊朗一机油工厂发生火灾致至少10人受伤",
           "url": "https://flash.jin10.com/detail/20260516214222580800",
           "source": "金十数据",
@@ -419,6 +531,50 @@
           "time_info": "00时38分"
         },
         {
+          "title": "伊朗议长谴责以色列“违反承诺”",
+          "url": "https://flash.jin10.com/detail/20260517173627509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "韩国外交部：韩国与伊朗将保持沟通以确保霍尔木兹海峡的安全。",
+          "url": "https://flash.jin10.com/detail/20260517172920188800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：美国已将解冻高达25%的伊朗被冻结资产作为条件，还要求伊朗必须交出400公斤浓缩铀。",
+          "url": "https://flash.jin10.com/detail/20260517172907518800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：消息人士称，美国在其（对伊朗的）回应中提出条件，要求伊朗仅保留一个核设施的运营，且美国已明确表示不会向伊朗支付任何赔偿。",
+          "url": "https://flash.jin10.com/detail/20260517172805482800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
           "title": "据伊朗努尔新闻(Nour News)：伊朗内政部长与到访的巴基斯坦内政部长举行了“详细”会谈，讨论了伊朗-巴基斯坦双边关系以及重启（美伊）和平谈判的前景。",
           "url": "https://flash.jin10.com/detail/20260516210853480800",
           "source": "金十数据",
@@ -428,12 +584,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "韩国外交部：韩国外交部长与伊朗外长通话，韩国外交部长要求伊朗对最近对韩国纳穆号船只的袭击表态。",
+          "url": "https://flash.jin10.com/detail/20260517172310499800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普：不希望看到台湾有人闹“独立”",
@@ -443,8 +610,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 17时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 18时50分]"
         },
         {
           "title": "听到特朗普这句话，台湾当局该醒了",
@@ -464,11 +631,12 @@
           "ranks": [
             1,
             2,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 17时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 18时50分]"
         },
         {
           "title": "特朗普在「空军一号」接受采访，释放大量关于贸易、台湾、伊朗等议题信号，哪些内容值得关注？",
@@ -492,8 +660,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 17时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 18时50分]"
         },
         {
           "title": "特朗普警告台湾不要试图走向“独立”",
@@ -553,11 +721,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时50分]"
         },
         {
           "title": "特朗普：如果不能达成和平协议，伊朗将面临“非常糟糕的处境”",
@@ -574,6 +743,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时43分 ~ 08时08分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，向特朗普递交了一份2010年巴西和土耳其与伊朗谈判达成的核协议副本，该协议曾被美国和欧盟拒绝。",
+          "url": "https://flash.jin10.com/detail/20260517181846468800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉请求美国总统特朗普解除对古巴的经济封锁。",
+          "url": "https://flash.jin10.com/detail/20260517181500544800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "美国总统特朗普：从白宫通往椭圆形办公室的步道上，原本是破旧的石板地面。如今，通往椭圆形办公室的步道已铺设了全新的花岗岩地面，取代了原有的石板地面。",
@@ -616,6 +807,29 @@
           "time_info": "[05时01分 ~ 08时08分]"
         },
         {
+          "title": "特朗普访华后续观察",
+          "url": "https://www.douyin.com/hot/2502108",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时50分]"
+        },
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时50分]"
+        },
+        {
           "title": "结束中美元首北京会晤数小时后，特朗普警告“台独”",
           "url": "https://wallstreetcn.com/livenews/3104824",
           "source": "华尔街见闻-快讯",
@@ -627,29 +841,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时33分 ~ 17时21分]"
-        },
-        {
-          "title": "特朗普访华后续观察",
-          "url": "https://www.douyin.com/hot/2502108",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
         },
         {
           "title": "据白宫随行记者团消息，美国总统特朗普今天在弗吉尼亚州斯特林的斯特林国家高尔夫俱乐部。",
@@ -684,6 +875,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，希望美国总统特朗普能尊重巴西，理解他在巴西是民主选举产生的总统。",
+          "url": "https://flash.jin10.com/detail/20260517181141541800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，他与美国总统特朗普的政治分歧并不影响其作为国家元首与他特朗普的关系。",
+          "url": "https://flash.jin10.com/detail/20260517181008473800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
+        },
+        {
+          "title": "据华盛顿邮报：巴西总统卢拉表示，美国总统特朗普知道他反对（美国）与伊朗开战，反对美国在委内瑞拉的干预，且谴责在巴勒斯坦的“种族灭绝”。",
+          "url": "https://flash.jin10.com/detail/20260517180941712800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         },
         {
           "title": "特朗普发文批评卡西迪“背叛”，称其政治生涯已终结",
@@ -828,11 +1052,12 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时50分]"
         },
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -843,8 +1068,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 17时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 18时50分]"
         }
       ]
     },
@@ -859,11 +1084,12 @@
           "ranks": [
             5,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 17时21分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 18时50分]"
         },
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
@@ -874,8 +1100,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 17时21分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时50分]"
         },
         {
           "title": "30年期美债收益率破5%意味着什么",
@@ -884,7 +1110,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
