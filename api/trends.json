@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T14:08:31.727024+08:00",
-  "total_titles_processed": 896,
+  "generated_at": "2026-05-25T18:48:59.186200+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 06时11分]"
+        },
+        {
+          "title": "据伊朗官方新闻机构：在卡塔尔代表团就被冻结资金问题访问德黑兰后，伊朗央行行长将前往卡塔尔。",
+          "url": "https://flash.jin10.com/detail/20260525183806231800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "伊朗称过去24小时33艘船通过霍尔木兹海峡",
@@ -348,6 +359,29 @@
           "time_info": "[02时48分 ~ 03时59分]"
         },
         {
+          "title": "伊朗：准备向全世界保证不寻求拥核",
+          "url": "https://www.toutiao.com/trending/7643313675294244883/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 18时48分]"
+        },
+        {
+          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
+          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "美国和伊朗制定旨在延长停火60天的谅解备忘录框架。（华盛顿邮报）",
           "url": "https://wallstreetcn.com/livenews/3108601",
           "source": "华尔街见闻-快讯",
@@ -387,18 +421,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "伊朗：准备向全世界保证不寻求拥核",
-          "url": "https://www.toutiao.com/trending/7643313675294244883/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -469,6 +492,17 @@
           "time_info": "06时11分"
         },
         {
+          "title": "伊朗称处决伊斯法罕省骚乱“武装领导人之一”",
+          "url": "https://wallstreetcn.com/livenews/3108816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "伊朗最高领袖顾问：管控霍尔木兹海峡是“合法权利”",
           "url": "https://flash.jin10.com/detail/20260524233642464800",
           "source": "金十数据",
@@ -511,6 +545,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "伊朗总统说不会屈服于外部压力和“过分要求”",
+          "url": "https://wallstreetcn.com/livenews/3108813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
+          "url": "https://www.zhihu.com/question/2042201889626907656",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "伊朗称解冻资金与转移浓缩铀无关，谈判关键分歧犹存",
@@ -566,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时31分"
+        },
+        {
+          "title": "伊朗民航官员：全国20个机场已成功恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260525182246922800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "伊朗：以色列试图通过挑起战争来谋利",
@@ -651,7 +718,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         }
@@ -659,7 +726,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -771,6 +838,17 @@
           "time_info": "[00时31分 ~ 06时11分]"
         },
         {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
           "url": "https://wallstreetcn.com/articles/3772984",
           "source": "华尔街见闻",
@@ -808,16 +886,16 @@
           "time_info": "[05时08分 ~ 07时18分]"
         },
         {
-          "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
-          "url": "https://wallstreetcn.com/livenews/3108501",
-          "source": "华尔街见闻-快讯",
+          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
+          "url": "https://www.cls.cn/detail/2380246",
+          "source": "财联社热门",
           "ranks": [
-            25,
-            26
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 02时48分]"
+          "appearance_count": 2,
+          "time_info": "[14时08分 ~ 18时48分]"
         },
         {
           "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
@@ -828,8 +906,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 14时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 18时48分]"
+        },
+        {
+          "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
+          "url": "https://wallstreetcn.com/livenews/3108501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时48分]"
         },
         {
           "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
@@ -868,6 +958,39 @@
           "time_info": "[03时59分 ~ 05时08分]"
         },
         {
+          "title": "特朗普：不会签署让伊朗获得核武器的协议",
+          "url": "https://wallstreetcn.com/livenews/3108835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "“白宫股神”推了“最火的存储”！特朗普公开大赞美光",
+          "url": "https://wallstreetcn.com/articles/3773000",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "特朗普：与伊朗的协议要伟大且有意义 否则不会有任何协议",
+          "url": "https://wallstreetcn.com/livenews/3108827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "特朗普称美伊协议“未谈妥”",
           "url": "https://www.douyin.com/hot/2511044",
           "source": "抖音",
@@ -877,17 +1000,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
-          "url": "https://www.cls.cn/detail/2380246",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
         },
         {
           "title": "特朗普称美伊协议未谈妥：封锁将持续",
@@ -912,21 +1024,43 @@
           "time_info": "02时48分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-25）",
+          "url": "https://flash.jin10.com/detail/20260525182649555800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "报道：特朗普想把美伊协议同“亚伯拉罕协议”挂钩",
           "url": "https://wallstreetcn.com/livenews/3108666",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "特朗普：与伊朗达成的协议要么是伟大且有意义的，要么就不会达成协议",
+          "url": "https://flash.jin10.com/detail/20260525181639010800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -946,7 +1080,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -969,9 +1103,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "中国500万美股账户被冻结 后续怎么办",
+          "url": "https://www.toutiao.com/trending/7643690261362196489/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1.06%，标普500指数期货涨0.68%。",
@@ -1033,11 +1178,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            17
+            17,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 14时08分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 18时48分]"
         }
       ]
     },
