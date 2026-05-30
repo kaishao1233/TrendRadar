@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T20:16:44.612326+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-05-30T22:11:32.734326+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -54,17 +54,6 @@
           "time_info": "[00时03分 ~ 07时59分]"
         },
         {
-          "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
-          "url": "https://flash.jin10.com/detail/20260530200112317800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
-        },
-        {
           "title": "伊朗：击落了美国-以色列一架无人机。（Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3111597",
           "source": "华尔街见闻-快讯",
@@ -74,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗准备为哈梅内伊举行盛大葬礼",
+          "url": "https://news.ifeng.com/c/8tYL9HroZVj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗防空系统在格什姆岛附近击落了美以的微型无人机。",
@@ -130,6 +130,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 15时25分]"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
+          "url": "https://flash.jin10.com/detail/20260530200112317800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 22时11分]"
         },
         {
           "title": "英国海事部门表示，美国对伊朗港口的封锁正在严格执行。霍尔木兹海峡附近船只的船长必须表明其无前往伊朗港口的意图。船只若不服从美国海军在霍尔木兹海峡的命令，将面临危险。",
@@ -272,6 +284,18 @@
           "time_info": "[19时06分 ~ 20时16分]"
         },
         {
+          "title": "美军称针对伊朗港口的海上封锁仍在持续",
+          "url": "https://wallstreetcn.com/livenews/3111799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 22时11分]"
+        },
+        {
           "title": "美国尚未证实伊朗在霍尔木兹海峡布雷。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3111639",
           "source": "华尔街见闻-快讯",
@@ -317,6 +341,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
+          "url": "https://wallstreetcn.com/livenews/3111819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗格什姆岛附近启动空中防御。",
           "url": "https://flash.jin10.com/detail/20260530021207111800",
           "source": "金十数据",
@@ -337,6 +372,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
+          "url": "https://flash.jin10.com/detail/20260530201304741800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "国际观察组织称，哈萨克斯坦提议，接纳伊朗浓缩铀。（英国金融时报）",
@@ -372,17 +418,6 @@
           "time_info": "05时05分"
         },
         {
-          "title": "美军称针对伊朗港口的海上封锁仍在持续",
-          "url": "https://wallstreetcn.com/livenews/3111799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
-        },
-        {
           "title": "伊朗对科威特的空军基地发动导弹袭击 数名美国人员受伤",
           "url": "https://wallstreetcn.com/livenews/3111733",
           "source": "华尔街见闻-快讯",
@@ -400,7 +435,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -529,7 +564,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -541,8 +576,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时43分 ~ 20时16分]"
+          "appearance_count": 11,
+          "time_info": "[06时43分 ~ 22时11分]"
         },
         {
           "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
@@ -579,8 +614,21 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时12分 ~ 22时11分]"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[12时12分 ~ 20时16分]"
+          "time_info": "[15时24分 ~ 22时11分]"
         },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
@@ -592,18 +640,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时03分 ~ 07时59分]"
-        },
-        {
-          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
-          "url": "https://www.zhihu.com/question/2043956365022814533",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 20时16分]"
         },
         {
           "title": "据华盛顿邮报：美国官员称，特朗普在战情室关于伊朗谅解备忘录的会议已经结束。",
@@ -735,6 +771,30 @@
           "time_info": "[17时32分 ~ 19时06分]"
         },
         {
+          "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
+          "url": "https://wallstreetcn.com/livenews/3111801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 22时11分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-30）",
+          "url": "https://flash.jin10.com/detail/20260530190753354800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 22时11分]"
+        },
+        {
           "title": "美国内政部长Burgum：即将会见总统特朗普。 此次会面可能将有重大消息。 石油市场可以相信，特朗普会达成一份很棒的协议。",
           "url": "https://wallstreetcn.com/livenews/3111592",
           "source": "华尔街见闻-快讯",
@@ -801,26 +861,15 @@
           "time_info": "12时12分"
         },
         {
-          "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
-          "url": "https://wallstreetcn.com/livenews/3111801",
+          "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
+          "url": "https://wallstreetcn.com/livenews/3111814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时16分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-30）",
-          "url": "https://flash.jin10.com/detail/20260530190753354800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
+          "time_info": "22时11分"
         },
         {
           "title": "【特朗普就结束伊朗战事提出条件】美国总统特朗普29日说，伊朗必须同意永远不拥有核武器。霍尔木兹海峡必须立即开放，双向通行无阻，不收取任何通行费。所有水雷必须予以清除。（新华社）",
@@ -832,6 +881,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "特朗普说即将开会就伊朗战事作出最终决定",
@@ -925,7 +985,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -937,8 +997,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时58分 ~ 20时16分]"
+          "appearance_count": 10,
+          "time_info": "[07时58分 ~ 22时11分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -1024,6 +1084,19 @@
           "time_info": "06时43分"
         },
         {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 22时11分]"
+        },
+        {
           "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
           "url": "https://wallstreetcn.com/livenews/3111636",
           "source": "华尔街见闻-快讯",
@@ -1076,18 +1149,6 @@
           "time_info": "[17时31分 ~ 20时16分]"
         },
         {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时16分]"
-        },
-        {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
           "url": "https://flash.jin10.com/detail/20260530040220789800",
           "source": "金十数据",
@@ -1111,6 +1172,17 @@
           "time_info": "[05时05分 ~ 06时43分]"
         },
         {
+          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
+          "url": "https://www.cls.cn/detail/2386086",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 22时11分]"
+        },
+        {
           "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
           "url": "https://wallstreetcn.com/livenews/3111637",
           "source": "华尔街见闻-快讯",
@@ -1123,15 +1195,15 @@
           "time_info": "[06时43分 ~ 07时59分]"
         },
         {
-          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
-          "url": "https://www.cls.cn/detail/2386086",
-          "source": "财联社热门",
+          "title": "中美股市的风格为何越来越相似了",
+          "url": "https://www.toutiao.com/trending/7645641566559669823/",
+          "source": "今日头条",
           "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时16分"
+          "time_info": "22时11分"
         },
         {
           "title": "科技行业ETF收涨超2.2%，领跑美股行业ETF，5月半导体ETF累涨超66%",
@@ -1179,22 +1251,24 @@
           "url": "https://wallstreetcn.com/livenews/3111808",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 22时11分]"
         },
         {
           "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
           "url": "https://flash.jin10.com/detail/20260530193729860800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 22时11分]"
         },
         {
           "title": "OpenAI确认推出Rosalind BioDefense Program。",
