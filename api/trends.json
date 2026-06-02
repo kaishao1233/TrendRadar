@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T19:24:46.557370+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2026-06-02T23:45:33.305922+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "戏剧性一幕，特朗普被迫打了一个电话",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 14时57分]"
+        },
+        {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 23时45分]"
         },
         {
           "title": "特朗普：以黎将立即停火",
@@ -37,9 +49,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "特朗普，开掉“不听话的情报头子”",
+          "url": "https://news.ifeng.com/c/8tdYs26KHgt",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
@@ -86,16 +109,15 @@
           "time_info": "10时07分"
         },
         {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
+          "title": "美国白宫：美国总统特朗普签署行政命令，促进先进人工智能创新与安全。美国将建立“机密基准测试程序”，用于人工智能领域。",
+          "url": "https://flash.jin10.com/detail/20260602233643019800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 19时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "为保美伊和谈，特朗普爆粗痛骂内塔尼亚胡！",
@@ -229,6 +251,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美伊谈判反复背后，特朗普痛骂内塔尼亚胡：你他妈疯了，要不是我你早进监狱了！",
+          "url": "https://wallstreetcn.com/articles/3773679",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美国法官叫停特朗普政府关闭气候研究中心的计划。",
           "url": "https://flash.jin10.com/detail/20260602053325030800",
           "source": "金十数据",
@@ -315,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "巴西总统卢拉：已经向特朗普表明，巴西与美国之间不存在贸易逆差。",
+          "url": "https://wallstreetcn.com/livenews/3113167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "IBM股价飙升，特朗普赞扬CEO的旧视频在网上重新流传",
@@ -441,7 +485,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
         {
           "title": "抗议以军扩大在黎行动，伊朗据称将暂停与美沟通，计划彻底封锁霍尔木兹海峡",
@@ -453,8 +497,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时04分 ~ 19时24分]"
+          "appearance_count": 7,
+          "time_info": "[03时04分 ~ 23时45分]"
         },
         {
           "title": "伊朗暂停与美国对话！“霍尔木兹、曼德海峡双封锁”重新摆上台面",
@@ -492,6 +536,17 @@
           "time_info": "[10时07分 ~ 14时57分]"
         },
         {
+          "title": "伊朗公开已故最高领袖哈梅内伊安葬地点",
+          "url": "https://news.ifeng.com/c/8tdbOC5wjyj",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "阿联酋总统顾问安瓦尔：中东地区正在为伊朗“膨胀的地区野心”付出代价。",
           "url": "https://flash.jin10.com/detail/20260602143654368800",
           "source": "金十数据",
@@ -513,6 +568,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时04分 ~ 07时47分]"
+        },
+        {
+          "title": "以总理扬言伊朗政权将覆灭",
+          "url": "https://news.ifeng.com/c/8tdSbmQMMVt",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗一名高级军官表示，一旦以色列在黎巴嫩违反停火协议，霍尔木兹海峡既定的秩序也将适用于曼德海峡。",
@@ -634,6 +700,17 @@
           "time_info": "07时47分"
         },
         {
+          "title": "伊朗媒体披露伊美信息交换“已暂停数日”",
+          "url": "https://wallstreetcn.com/livenews/3113179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "伊朗总统：要么强硬前行，要么牺牲",
           "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
           "source": "凤凰网",
@@ -654,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
+        },
+        {
+          "title": "内塔尼亚胡：绝不允许伊朗威胁以色列的生存",
+          "url": "https://flash.jin10.com/detail/20260602233127140800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "据伊朗梅尔通讯社，伊朗的最终文本仍在德黑兰讨论中，目前尚未向美国发送回应。",
@@ -695,9 +783,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Greene：鉴于伊朗战争持续，加息可能性上升。 央行（在采取货币政策方面）无法仅仅依赖收紧的曲线。 相比无所作为，采取（货币政策）行动的风险并不是那么严重。",
+          "url": "https://wallstreetcn.com/livenews/3113172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗：必要情况下“动用一切能力捍卫自身利益”",
@@ -731,6 +830,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗已在霍尔木兹海峡大片区域布雷。 美国不会因伊朗重新开放霍尔木兹海峡而给予制裁减免。 阿曼与伊朗“眉来眼去”，试图控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3113166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗外交部：美对以色列违反黎以停火协议负有直接责任",
@@ -777,6 +887,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "鲁比奥称美国正与伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3113153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "伊朗暂停通过中间人同美国的对话",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E9%80%9A%E8%BF%87%E4%B8%AD%E9%97%B4%E4%BA%BA%E5%90%8C%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%AF%B9%E8%AF%9D",
           "source": "百度热搜",
@@ -797,12 +918,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "美国国务卿卢比奥在参议院外交关系委员会声称，伊朗仍然拥有许多无人机，它们很容易制造。 可能会在今天、明天、或者下周达成伊朗协议。 纳斯达克100指数转跌。",
+          "url": "https://wallstreetcn.com/livenews/3113150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
@@ -838,6 +970,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时47分 ~ 14时57分]"
+        },
+        {
+          "title": "美股期指下跌 慧与科技盘前大涨超28% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2388757",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
@@ -878,13 +1021,35 @@
           "time_info": "[06时17分 ~ 07时47分]"
         },
         {
+          "title": "美股两房下挫，FHFA局长身兼代理情报总监引发质疑",
+          "url": "https://wallstreetcn.com/livenews/3113176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美伊前景不明，美股低开，Marvell大涨25%，布油持稳95美元，比特币跌破6.9万美元",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
           "url": "https://www.cls.cn/detail/2388081",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -959,8 +1124,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 19时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 23时45分]"
         },
         {
           "title": "谷歌拟筹800亿美元 伯克希尔100亿美元跟投",
@@ -1002,7 +1167,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1013,7 +1178,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
@@ -1102,11 +1267,12 @@
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时24分 ~ 23时45分]"
         }
       ]
     },
@@ -1142,6 +1308,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "恒天然：6月2日全球乳品贸易（GDT）拍卖价格指数下降0.6%，奶粉各合同期FAS拍卖均价4,021美元/吨。 批发奶粉价格指数下降2.2%，报3,706美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3113175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     }
