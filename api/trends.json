@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T18:38:24.034257+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-06-05T21:43:26.408229+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -241,7 +241,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -343,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "美国总统特朗普：如果没有美国的军事支持，乌克兰将无法继续作战。",
@@ -543,6 +554,17 @@
           "time_info": "06时08分"
         },
         {
+          "title": "机构分析师评美国非农：市场现在认为，美联储在10月28日的会议上加息的可能性接近70%。试想一下，如果沃什在中期选举前宣布加息，特朗普会作何反应。",
+          "url": "https://flash.jin10.com/detail/20260605212409211800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "美国总统特朗普宣称：先解决伊朗，再处理古巴。",
           "url": "https://wallstreetcn.com/livenews/3114629",
           "source": "华尔街见闻-快讯",
@@ -560,7 +582,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -667,7 +689,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗外长阿拉格齐表示，伊朗有能力维持战争，但不寻求战争。",
@@ -687,7 +709,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -717,6 +739,19 @@
           "time_info": "[02时11分 ~ 07时37分]"
         },
         {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时40分 ~ 21时43分]"
+        },
+        {
           "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3114653",
           "source": "华尔街见闻-快讯",
@@ -727,18 +762,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时37分]"
-        },
-        {
-          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时40分 ~ 18时38分]"
         },
         {
           "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
@@ -813,9 +836,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 98 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046131640967984631",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "美军否认伊朗向美军舰进行警告射击",
+          "url": "https://flash.jin10.com/detail/20260605213422052800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "伊朗伊斯兰革命卫队发言人：美国政府必须明白，如果犹太复国主义者不从黎巴嫩被占领地区撤出，中东地区就不会实现和平。",
@@ -824,7 +869,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         }
@@ -832,7 +877,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：道指飙升近900点创历史新高 博通引发芯片板块抛售拖累纳指",
@@ -884,6 +929,28 @@
           "time_info": "[07时37分 ~ 14时41分]"
         },
         {
+          "title": "美股盘初，房利美股价上涨10%，房地美上涨9.7%。此前美国总统特朗普表示，两房的价值可能有1万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "李大霄谈美股风险释放",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%B0%88%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9%E9%87%8A%E6%94%BE",
           "source": "bilibili 热搜",
@@ -908,6 +975,28 @@
           "time_info": "[14时40分 ~ 14时41分]"
         },
         {
+          "title": "房利美股价上涨10%，房地美上涨9.7%。",
+          "url": "https://flash.jin10.com/detail/20260605213437051800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3115164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "房利美和房地美股价在美国粉单市场上涨6%；特朗普表示，房利美和房地美的价值可能达到1万亿美元。",
           "url": "https://flash.jin10.com/detail/20260605041157791800",
           "source": "金十数据",
@@ -917,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "非农大超预期 美股开盘纳指跌超1%",
+          "url": "https://flash.jin10.com/detail/20260605213036341800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
@@ -974,11 +1074,12 @@
           "url": "https://www.zhihu.com/question/2045932866278895886",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 21时43分]"
         },
         {
           "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
@@ -1024,11 +1125,12 @@
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 21时43分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
@@ -1037,7 +1139,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1055,8 +1157,47 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指期货跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "桥水CIO喊你买黄金：物资争夺战之下，各国正在抛美债、囤黄金、抢铜！",
+          "url": "https://flash.jin10.com/detail/20260605141227788800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周四（6月4日）纽约尾盘，ICE美元指数跌0.10%，报99.432点，全天处于下跌状态，北京时间16:00之前持稳于99.450点附近，之后呈现出V形走势、20:00刷新日低至99.179点。 彭博美元指数跌0.06%，报1204.71点，欧股盘初曾短线转涨、15:41刷新日高至1205.94点，随后出现V型行情、20:00也刷新日低至1202.49点。 美元兑日元跌0.03%，报160.02日元，在一波短线跳水行情中、12:34刷新日低至159.61日元。",
@@ -1079,23 +1220,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "桥水CIO喊你买黄金：物资争夺战之下，各国正在抛美债、囤黄金、抢铜！",
-          "url": "https://flash.jin10.com/detail/20260605141227788800",
-          "source": "金十数据",
+          "title": "现货黄金短线跳水，跌破4420美元/盎司，报4419.84美元/盎司，日内跌超1.3%。 美元指数持续走高，创4月8日以来新高，日内涨0.12%。 美国2年期国债收益率单日上行10个基点，创2026年以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3115155",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "21时43分"
         }
       ]
     }
