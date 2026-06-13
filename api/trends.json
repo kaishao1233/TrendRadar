@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-13T12:44:15.486506+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-06-13T16:15:30.119819+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
+          "url": "https://news.ifeng.com/c/8tuxeZuZndm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 16时15分]"
+        },
         {
           "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
           "url": "https://www.zhihu.com/question/2048669431962625669",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时02分 ~ 07时58分]"
-        },
-        {
-          "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
-          "url": "https://news.ifeng.com/c/8tuxeZuZndm",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
         },
         {
           "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
@@ -67,15 +67,17 @@
           "time_info": "02时19分"
         },
         {
-          "title": "美媒：忧心美国可能采取行动夺取核材料，伊朗封存铀库存并布设地雷",
-          "url": "https://flash.jin10.com/detail/20260613121408335800",
-          "source": "金十数据",
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            8,
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 16时15分]"
         },
         {
           "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
@@ -104,6 +106,19 @@
           "time_info": "[06时14分 ~ 12时44分]"
         },
         {
+          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
+          "url": "https://wallstreetcn.com/livenews/3119102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 16时15分]"
+        },
+        {
           "title": "伊朗南部爆炸声因警告性射击",
           "url": "https://wallstreetcn.com/livenews/3119090",
           "source": "华尔街见闻-快讯",
@@ -117,28 +132,16 @@
           "time_info": "[06时14分 ~ 12时44分]"
         },
         {
-          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
-          "url": "https://wallstreetcn.com/livenews/3119102",
-          "source": "华尔街见闻-快讯",
+          "title": "美媒：忧心美国可能采取行动夺取核材料，伊朗封存铀库存并布设地雷",
+          "url": "https://flash.jin10.com/detail/20260613121408335800",
+          "source": "金十数据",
           "ranks": [
             3,
-            20
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时58分 ~ 12时44分]"
-        },
-        {
-          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
-          "url": "https://wallstreetcn.com/articles/3774522",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 16时15分]"
         },
         {
           "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
@@ -152,6 +155,18 @@
           "time_info": "[04时33分 ~ 07时58分]"
         },
         {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 16时15分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
           "url": "https://flash.jin10.com/detail/20260613035630897800",
           "source": "金十数据",
@@ -161,6 +176,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时33分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 16时15分]"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
@@ -274,26 +300,16 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
-          "source": "澎湃新闻",
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            10,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
-        },
-        {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 16时15分]"
         },
         {
           "title": "伊朗美国已就协议文本达成一致",
@@ -305,6 +321,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 12时44分]"
+        },
+        {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗外交部发言人表示，双方已就谈判中的大部分问题达成共识，目前我们正处于内部决策程序的最后阶段。",
@@ -349,17 +376,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "美军称伊朗发射多架单向攻击无人机",
-          "url": "https://wallstreetcn.com/livenews/3119115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         },
         {
           "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
@@ -467,7 +483,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -577,7 +593,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -629,7 +645,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -689,6 +705,29 @@
           "time_info": "00时03分"
         },
         {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 16时15分]"
+        },
+        {
           "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
           "url": "https://flash.jin10.com/detail/20260613033812680800",
           "source": "金十数据",
@@ -700,26 +739,16 @@
           "time_info": "[04时33分 ~ 07时58分]"
         },
         {
-          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
-          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
-          "source": "凤凰网",
+          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
+          "url": "https://wallstreetcn.com/livenews/3119112",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            13,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
-        },
-        {
-          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
-          "url": "https://www.cls.cn/detail/2398839",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 12时44分]"
+          "time_info": "[12时44分 ~ 16时15分]"
         },
         {
           "title": "雪佛龙CEO Mike Wirth：公司对（波斯湾）石油外流规模的看法并没有美国总统特朗普的能源部长Wright那样乐观。",
@@ -750,7 +779,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -764,17 +793,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时03分"
-        },
-        {
-          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
-          "url": "https://wallstreetcn.com/livenews/3119112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         },
         {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
@@ -794,9 +812,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
+        },
+        {
+          "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
+          "url": "https://flash.jin10.com/detail/20260613135132785800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "特朗普押注“超级周末”：80岁生日前签下美伊“终战”协议",
@@ -816,7 +845,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -827,7 +856,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         },
@@ -838,7 +867,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -867,8 +896,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 16时15分]"
         },
         {
           "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
@@ -879,8 +908,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 12时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 16时15分]"
         },
         {
           "title": "SpaceX开盘狂飙29%，美股指转跌，太空概念股跳水，布油跌幅收窄",
@@ -904,8 +933,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时14分 ~ 12时44分]"
+          "appearance_count": 6,
+          "time_info": "[06时14分 ~ 16时15分]"
         },
         {
           "title": "金十图示：2026年06月12日（周五）美股热门股票行情一览（美股收盘）",
@@ -1013,6 +1042,18 @@
           "time_info": "[06时14分 ~ 07时58分]"
         },
         {
+          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
+          "url": "https://wallstreetcn.com/livenews/3119107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 16时15分]"
+        },
+        {
           "title": "数字货币市场最近七天至少涨超2%，比特币在周五美股开盘后一度突破6340美元",
           "url": "https://wallstreetcn.com/livenews/3119009",
           "source": "华尔街见闻-快讯",
@@ -1022,17 +1063,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
-          "url": "https://wallstreetcn.com/livenews/3119107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时44分"
         }
       ]
     },
@@ -1061,7 +1091,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
         }
@@ -1094,11 +1124,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时58分 ~ 12时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 16时15分]"
         }
       ]
     },
