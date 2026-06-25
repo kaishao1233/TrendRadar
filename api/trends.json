@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T17:58:42.162865+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-06-25T20:32:11.086326+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时24分 ~ 07时51分]"
+        },
+        {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 20时32分]"
         },
         {
           "title": "美国总统特朗普：进展非常顺利。",
@@ -114,11 +126,12 @@
           "url": "https://www.cls.cn/detail/2408936",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 20时32分]"
         },
         {
           "title": "据CNN：美国总统特朗普目前正前​​往国会山，与参议院共和党人共进午餐。",
@@ -165,18 +178,6 @@
           "time_info": "10时39分"
         },
         {
-          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
-          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 17时58分]"
-        },
-        {
           "title": "美国总统特朗普：对霍尔木兹海峡收费是无法让人接受的。",
           "url": "https://wallstreetcn.com/livenews/3124236",
           "source": "华尔街见闻-快讯",
@@ -198,6 +199,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时38分 ~ 14时36分]"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 20时32分]"
         },
         {
           "title": "美国总统特朗普：乌克兰总统泽连斯基表现得相当不错。",
@@ -222,13 +235,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "美国国务卿鲁比奥：特朗普对一些盟友“非常不满”",
+          "url": "https://wallstreetcn.com/livenews/3124658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
           "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
           "source": "澎湃新闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -299,6 +323,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "美国国务卿鲁比奥：伊拉克领导人已与特朗普交谈，正看到积极信号。 不清楚重建基金将如何安排。 我们可以在乌克兰冲突中发挥任何建设性作用。",
+          "url": "https://wallstreetcn.com/livenews/3124651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "特朗普回应拒签住房法案：比任何人都懂房地产 降息才是关键",
           "url": "https://flash.jin10.com/detail/20260625051323883800",
           "source": "金十数据",
@@ -308,17 +343,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
-        },
-        {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
         },
         {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
@@ -409,6 +433,17 @@
           "time_info": "06时40分"
         },
         {
+          "title": "美国国务卿鲁比奥：伊拉克领导人已与特朗普通话，看到积极信号。",
+          "url": "https://flash.jin10.com/detail/20260625194159010800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
           "url": "https://flash.jin10.com/detail/20260625022804523800",
           "source": "金十数据",
@@ -418,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊拉克新任总理即将访问华盛顿，与特朗普会晤。",
+          "url": "https://flash.jin10.com/detail/20260625194142448800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "市场消息：美国总统特朗普在与共和党议员进行午宴时，“90%”的时间都在抨击丽莎·穆尔科斯基、比尔·卡西迪和米奇·麦康奈尔这些“名义上的共和党人”（RINO）。",
@@ -492,7 +538,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         }
@@ -500,7 +546,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -512,6 +558,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时24分 ~ 06时40分]"
+        },
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时38分 ~ 20时32分]"
         },
         {
           "title": "铝价回归伊朗战争前水平，美元走强和海湾供应恢复希望",
@@ -537,18 +595,6 @@
           "time_info": "[05时02分 ~ 06时40分]"
         },
         {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 17时58分]"
-        },
-        {
           "title": "伊朗：签谅解备忘录表明“美国战败”",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
           "source": "百度热搜",
@@ -562,6 +608,29 @@
           "time_info": "[01时24分 ~ 05时02分]"
         },
         {
+          "title": "世界杯生死战前伊朗队被迫滞留机场",
+          "url": "https://www.toutiao.com/trending/7655006558115512326/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 20时32分]"
+        },
+        {
+          "title": "贝森特：伊朗谈判纳入美元结算要求，经济增长有望年内重返3%",
+          "url": "https://wallstreetcn.com/articles/3775417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
           "title": "布伦特原油抹去伊朗战争期间的涨幅，霍尔木兹海峡开放使得供应增加。",
           "url": "https://wallstreetcn.com/livenews/3124365",
           "source": "华尔街见闻-快讯",
@@ -571,6 +640,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "伊朗外长与阿曼外长通话讨论霍尔木兹海峡通航进展",
+          "url": "https://wallstreetcn.com/livenews/3124655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "天然气出口国论坛秘书长菲利普：随着伊朗战争结束，天然气需求将在第三季度开始回升。",
@@ -606,13 +686,24 @@
           "time_info": "14时36分"
         },
         {
+          "title": "美国国务卿鲁比奥：对委内瑞拉采取的是全政府层面的应对措施。 与海湾国家进行了非常好的会晤。 海湾国家对霍尔木兹海峡通行收费的支持度为零。 我们不会做任何损害海湾伙伴利益的事情。 （就伊朗支持代理人的问题作出回应）伊朗谅解备忘录涉及不干涉他国内政的问题。 我们关注的是行动，而非伊朗的言辞。 “费用”和“通行费”是一回事。霍尔木兹海峡的收费体系根本不可行。 委内瑞拉首先需要的是搜救援助。 不知晓卡塔尔持有的伊朗资金被转移一事。 海合会（GCC）会议上未讨论3000亿美元基金事宜。",
+          "url": "https://wallstreetcn.com/livenews/3124643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "市场消息：在伊朗冲突爆发后不久，迪拜高层官员召集了数百名商界人士，以讨论海湾地区旅游和金融中心如何减轻经济损害。",
           "url": "https://flash.jin10.com/detail/20260625172517461800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         },
@@ -628,6 +719,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "伊朗外长与阿曼外长通话讨论霍尔木兹海峡通航进展",
+          "url": "https://flash.jin10.com/detail/20260625194809785800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国能源部长赖特：即使与伊朗没有达成协议，美国也将确保霍尔木兹海峡的石油流动。",
           "url": "https://flash.jin10.com/detail/20260625004515852800",
           "source": "金十数据",
@@ -637,17 +739,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "世界杯生死战前伊朗队被迫滞留机场",
-          "url": "https://www.toutiao.com/trending/7655006558115512326/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时58分"
         },
         {
           "title": "美国能源部长赖特：伊朗将无法阻止霍尔木兹海峡的通行。",
@@ -683,6 +774,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "美国国务卿鲁比奥：如果伊朗将资金用于代理人，这笔交易就无效。",
+          "url": "https://flash.jin10.com/detail/20260625193904690800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：在未经伊朗协调的情况下宣布新的霍尔木兹海峡航线，是不可接受且危险的。 只有通过伊朗指定的航线，才有可能安全通过霍尔木兹海峡。 通过霍尔木兹海峡过境的船只，必须在16频道与革命卫队海军进行协调。 革命卫队海军警告，违反过境指令的船只将面临行动。",
           "url": "https://wallstreetcn.com/livenews/3124338",
           "source": "华尔街见闻-快讯",
@@ -692,6 +794,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国副总统万斯主导伊朗谈判这一事实表明了政府的认真态度。",
+          "url": "https://flash.jin10.com/detail/20260625193753981800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "伊朗外长与沙特外交大臣通电话。",
@@ -708,7 +821,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -858,12 +971,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "黑莓第一财季营收1.529亿美元，预估1.368亿美元。 第一财季经调整基本每股收益0.040美元，预估0.03美元。 第一财季经调整毛利率78.6％，预估76.9％。 黑莓预计全年营收5.94亿美元至6.21亿美元，市场预估6.019亿美元。 黑莓预计全年调整后EBITDA 1.19亿美元至1.39亿美元。 黑莓预计全年经调整基本每股收益0.16美元至0.20美元，市场预估0.18美元。 黑莓美股盘前涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3124628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价4000美元关口告破，这是空头陷阱还是下跌加速？",
@@ -894,11 +1018,12 @@
           "ranks": [
             18,
             19,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时38分 ~ 17时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时38分 ~ 20时32分]"
         },
         {
           "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
@@ -923,6 +1048,17 @@
           "time_info": "[10时38分 ~ 10时39分]"
         },
         {
+          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
           "url": "https://flash.jin10.com/detail/20260625023404741800",
           "source": "金十数据",
@@ -940,7 +1076,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         }
@@ -948,7 +1084,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
@@ -971,6 +1107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时36分"
+        },
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "报道：谷歌另外两名主要的AI员工恐将跳槽至Anthropic",
@@ -1069,7 +1216,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时58分"
         }
