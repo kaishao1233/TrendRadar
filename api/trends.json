@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T14:56:56.490448+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-07-06T19:43:26.031000+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
@@ -43,6 +43,18 @@
           "time_info": "[00时46分 ~ 07时51分]"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 19时43分]"
+        },
+        {
           "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
           "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
           "source": "澎湃新闻",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时46分 ~ 07时51分]"
-        },
-        {
-          "title": "特朗普一通电话后，国际足联“破例”了",
-          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 14时56分]"
         },
         {
           "title": "美媒：特朗普施压国际足联 美国队头号射手红牌处罚被暂缓执行",
@@ -113,6 +113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：特朗普和我在许多问题上意见一致。我与特朗普的关系很好。",
+          "url": "https://flash.jin10.com/detail/20260706192506914800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "美国总统特朗普：我要向“Freedom 250”、伟大的白宫委员会以及Pyrotecnico公司表示祝贺，感谢你们呈现了我所见过的最壮观的烟花表演——我可是几乎看过所有大型烟花秀。祝贺你们出色完成了这项工作！",
@@ -377,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "SpaceX总裁Shotwell将向特朗普账户捐赠SpaceX股票",
+          "url": "https://wallstreetcn.com/livenews/3129320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
@@ -413,11 +435,25 @@
           "url": "https://news.ifeng.com/c/8uXROeZKlPw",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 19时43分]"
+        },
+        {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时35分 ~ 19时43分]"
         },
         {
           "title": "英法高调宣布保障霍尔木兹航行自由，伊朗强硬警告，国际油价暗盘拉升，中东局势会再度升级吗？",
@@ -433,18 +469,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时37分 ~ 07时51分]"
-        },
-        {
-          "title": "伊朗最高领袖发布任免令",
-          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时35分 ~ 14时56分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：自己首先是一名战士，其次才是外交官，德黑兰必须在保持“战备状态”的前提下开展谈判。",
@@ -546,7 +570,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
@@ -573,6 +597,18 @@
           "time_info": "[00时46分 ~ 07时51分]"
         },
         {
+          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 19时43分]"
+        },
+        {
           "title": "本周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
@@ -584,15 +620,15 @@
           "time_info": "10时35分"
         },
         {
-          "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
+          "title": "SK海力士正式启动美股上市营销推介流程",
+          "url": "https://flash.jin10.com/detail/20260706192535279800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "19时43分"
         },
         {
           "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
@@ -610,11 +646,12 @@
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 19时43分]"
         }
       ]
     },
@@ -629,7 +666,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -640,7 +677,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         }
