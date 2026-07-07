@@ -1,8 +1,269 @@
 {
-  "generated_at": "2026-07-08T02:20:46.377307+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-07-08T04:22:24.495068+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "伊朗",
+      "match_count": 23,
+      "titles": [
+        {
+          "title": "美国恢复对伊朗石油制裁",
+          "url": "https://news.ifeng.com/c/8uZxW8JiojM",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗总统赴伊拉克出席哈梅内伊送葬仪式",
+          "url": "https://wallstreetcn.com/livenews/3130129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 04时22分]"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔召见伊朗副大使。",
+          "url": "https://wallstreetcn.com/livenews/3130128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 04时22分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问雷扎伊：反对谈判的朋友们请耐心等待，美国人自己会毁掉这场谈判。",
+          "url": "https://flash.jin10.com/detail/20260708040259024800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "美国终止对伊朗石油制裁豁免",
+          "url": "https://wallstreetcn.com/livenews/3130152",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗最高领袖顾问雷扎伊：美国正寻求让其军舰通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260708040027818800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗最高领袖顾问雷扎伊表示，很明显，美国将使谈判以失败告终。",
+          "url": "https://flash.jin10.com/detail/20260708035811096800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "海湾合作委员会秘书长：沙特油轮遭袭一事反映出伊朗的敌对做法仍在延续。",
+          "url": "https://flash.jin10.com/detail/20260708034407140800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗总统赴伊拉克出席哈梅内伊送葬仪式",
+          "url": "https://flash.jin10.com/detail/20260708015033048800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "海湾合作委员会秘书长：伊朗袭击沙特油轮是“犯罪行为”，威胁航运安全和能源供应。",
+          "url": "https://flash.jin10.com/detail/20260708034041885800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗外交部通过官方Telegram频道驳斥卡塔尔关于船只遇袭的指称。",
+          "url": "https://wallstreetcn.com/livenews/3130144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗最高领袖国际事务顾问：伊朗支持“抵抗力量”的立场不会改变。",
+          "url": "https://flash.jin10.com/detail/20260708014929851800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "美国恢复对伊朗石油制裁",
+          "url": "https://flash.jin10.com/detail/20260708032206907800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "【美国撤销伊朗石油销售豁免，美伊临时和平协议承压】在霍尔木兹海峡发生新的油轮遇袭事件后，美国财政部撤销了一项允许伊朗石油销售的豁免，推翻了此前与德黑兰达成的临时和平协议中的一项关键内容。美国财政部外国资产控制办公室（OFAC）表示，自7月7日起，不得开展新的相关交易。此前在临时和平协议达成后发布的豁免允许相关交易持续60天，原定有效期至8月21日。受此消息影响，油价上涨。",
+          "url": "https://wallstreetcn.com/livenews/3130141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗：部分船只未经协调航行 妨碍海峡安全通航",
+          "url": "https://flash.jin10.com/detail/20260708031943921800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊方敦促包括卡塔尔在内的地区国家及航运公司避免采取任何违反备忘录的行为。",
+          "url": "https://flash.jin10.com/detail/20260708031839955800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "卡塔尔外交部：要求伊朗立即停止任何威胁地区安全的行为，并停止危害全球航运和能源供应的安全。",
+          "url": "https://flash.jin10.com/detail/20260708013936947800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "伊朗外交部发言人：卡塔尔指责伊朗袭击一艘与该国有关联船只的说法令人质疑，违背睦邻友好原则，不可接受。",
+          "url": "https://flash.jin10.com/detail/20260708031820038800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "卡塔尔外交部：坚决拒绝伊朗的袭击行为，该行为损害国际航行安全。",
+          "url": "https://flash.jin10.com/detail/20260708013919396800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "卡塔尔外交部召见伊朗副大使，抗议在霍尔木兹海峡针对卡塔尔液化天然气油轮的行为。",
+          "url": "https://flash.jin10.com/detail/20260708013722779800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "土耳其官员：伊朗可以通过谈判确保自身安全和经济利益，战争不会让任何一方受益。",
+          "url": "https://flash.jin10.com/detail/20260708013301275800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "伊朗总统：我们将维护持久稳定，不接受任何违背承诺或偏离谅解备忘录的行为。",
+          "url": "https://flash.jin10.com/detail/20260708030817895800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗向联合国提交文件 主张有权控制霍尔木兹海峡“部分”水域",
+          "url": "https://wallstreetcn.com/livenews/3130097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        }
+      ]
+    },
     {
       "keyword_group": "特朗普",
       "match_count": 10,
@@ -12,11 +273,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
         },
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -26,8 +288,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
         },
         {
           "title": "特朗普：对北约非常失望",
@@ -36,9 +298,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时20分 ~ 04时22分]"
         },
         {
           "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
@@ -48,8 +310,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
         },
         {
           "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
@@ -57,11 +319,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
         },
         {
           "title": "美国（国会山）民主党成员们发函Kalshi、Polymarket、以及特朗普媒体。",
@@ -92,7 +355,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -103,7 +366,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -121,114 +384,20 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美股",
       "match_count": 9,
       "titles": [
         {
-          "title": "伊朗总统赴伊拉克出席哈梅内伊送葬仪式",
-          "url": "https://wallstreetcn.com/livenews/3130129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "卡塔尔外交部：卡塔尔召见伊朗副大使。",
-          "url": "https://wallstreetcn.com/livenews/3130128",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年07月07日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260708040544718800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "04时22分"
         },
-        {
-          "title": "伊朗总统赴伊拉克出席哈梅内伊送葬仪式",
-          "url": "https://flash.jin10.com/detail/20260708015033048800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "伊朗最高领袖国际事务顾问：伊朗支持“抵抗力量”的立场不会改变。",
-          "url": "https://flash.jin10.com/detail/20260708014929851800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "卡塔尔外交部：要求伊朗立即停止任何威胁地区安全的行为，并停止危害全球航运和能源供应的安全。",
-          "url": "https://flash.jin10.com/detail/20260708013936947800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "卡塔尔外交部：坚决拒绝伊朗的袭击行为，该行为损害国际航行安全。",
-          "url": "https://flash.jin10.com/detail/20260708013919396800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "卡塔尔外交部召见伊朗副大使，抗议在霍尔木兹海峡针对卡塔尔液化天然气油轮的行为。",
-          "url": "https://flash.jin10.com/detail/20260708013722779800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "土耳其官员：伊朗可以通过谈判确保自身安全和经济利益，战争不会让任何一方受益。",
-          "url": "https://flash.jin10.com/detail/20260708013301275800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "伊朗向联合国提交文件 主张有权控制霍尔木兹海峡“部分”水域",
-          "url": "https://wallstreetcn.com/livenews/3130097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
         {
           "title": "阿波罗首席经济学家：美股七巨头以外公司利润率停滞对科技巨头估值构成风险",
           "url": "https://wallstreetcn.com/livenews/3130079",
@@ -249,8 +418,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
         },
         {
           "title": "美股",
@@ -258,11 +427,12 @@
           "source": "微博",
           "ranks": [
             14,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -272,8 +442,41 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
+        },
+        {
+          "title": "金十图示：2026年07月07日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260708040533776800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "美股存储芯片指数初步收跌6.8%，费城半导体指数跌4.9%。 标普500指数初步收跌0.4%，科技板块跌1.8%，工业板块跌1.6%，能源板块涨3.2%。 纳斯达克100指数初步收跌1.8%，成分股中，Astera Labs初步收跌12%，泰瑞达跌10.3%，英特尔跌10.1%，迈威尔科技/美满电子、西部数据、Nebius集团、科磊、拉姆研究、闪迪至少跌7.1%，汤森路透则涨3.2%，Workday行4%，再生元制药涨4.1%，Diamondback Energy涨4.2%，吉利德科学涨5.2%。 道指成分股里，雪佛龙涨3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3130154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 闪迪跌7%",
+          "url": "https://flash.jin10.com/detail/20260708040120713800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至7%，英特尔跌超10%。",
@@ -290,30 +493,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
-          "url": "https://www.zhihu.com/question/2057753624717911009",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
-        },
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
           "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -321,6 +513,18 @@
           "source": "凤凰网",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
+        },
+        {
+          "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
+          "url": "https://www.zhihu.com/question/2057753624717911009",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -336,12 +540,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "前华为天才少年吐槽DeepSeek面试",
+          "url": "https://www.toutiao.com/trending/7658530038409969718/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
@@ -351,8 +566,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时07分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 04时22分]"
         },
         {
           "title": "恒天然：7月7日全球乳品贸易（GDT）拍卖价格指数下降4.9%，奶粉各合同期FAS拍卖均价3,793美元/吨。 批发奶粉价格指数下降4.4%，报3,425美元/吨。",
@@ -366,13 +581,24 @@
           "time_info": "00时07分"
         },
         {
+          "title": "周二（7月7日）纽约尾盘，ICE美元指数涨0.20%，报101.056点，日内交投区间为100.803-101.126点，北京时间02:49出现一波加速上涨行情。 彭博美元指数涨0.17%，报1220.95点，日内交投区间为1218.04-1221.68点。 美元兑日元跌0.01%，报162.08日元，日内交投区间为161.67-162.18日元。 欧元兑日元跌0.24%，报185.01日元；英镑兑日元跌0.24%，报216.523日元。",
+          "url": "https://wallstreetcn.com/livenews/3130150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.61%，暂报2240.35点。 MarketVectorTM数字资产100中盘指数跌0.61%，报2611.74点。 MarketVector数字资产100指数涨0.40%，报12789.36点。 目前，Solana涨0.31%，狗狗币跌1.96%，XRP跌1.45%。 比特币涨0.40%，暂报64014美元；以太坊涨0.56%，暂报1804.34美元。",
           "url": "https://wallstreetcn.com/livenews/3130110",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         }
@@ -380,8 +606,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国参议院民主党成员Warren声明：就五角大楼AI合同质询英伟达、甲骨文。 Alphabet旗下谷歌公司、微软、马斯克旗下太空探索公司SpaceX、亚马逊旗下AWS也被质询。",
+          "url": "https://wallstreetcn.com/livenews/3130159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
         {
           "title": "谷歌公司：Gemini API中受管理的Agents具备新的能力。",
           "url": "https://wallstreetcn.com/livenews/3130107",
@@ -389,9 +626,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美债收益率普遍涨超6个基点，投资者紧盯波斯湾局势对油价的影响",
+          "url": "https://wallstreetcn.com/livenews/3130149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        },
+        {
+          "title": "意大利自2021年以来首次重返美元债市场，寻求融资60亿美元。 三种到期时间的意大利美元债发行已经吸引到将近200亿美元需求，预计各种久期的定价将较可比美债的收益率收窄至多10个基点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3130056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
         }
       ]
     },
@@ -406,26 +671,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "意大利自2021年以来首次重返美元债市场，寻求融资60亿美元。 三种到期时间的意大利美元债发行已经吸引到将近200亿美元需求，预计各种久期的定价将较可比美债的收益率收窄至多10个基点。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3130056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "02时20分"
         }
       ]
     }
