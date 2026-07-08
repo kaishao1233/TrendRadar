@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T02:44:08.468383+08:00",
-  "total_titles_processed": 382,
+  "generated_at": "2026-07-09T04:15:18.469816+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
@@ -61,8 +61,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "美国总统特朗普：在进一步了解伊朗领导人后，我改变了对他们是否理性的看法。伊朗领导人现在变得更加理性。",
@@ -109,15 +109,27 @@
           "time_info": "01时04分"
         },
         {
+          "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2058225620715418670",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
+        },
+        {
           "title": "伊朗外长：将以行动对特朗普言论作出回应",
           "url": "https://wallstreetcn.com/livenews/3130854",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 04时15分]"
         },
         {
           "title": "美国总统特朗普：我们现在石油过剩，油价将下跌。 石油（供应）将变得非常充裕，获取非常容易，且见效极快。",
@@ -132,17 +144,6 @@
           "time_info": "[01时04分 ~ 02时44分]"
         },
         {
-          "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2058225620715418670",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
-        },
-        {
           "title": "特朗普：美伊谅解备忘录“已终结”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
           "source": "澎湃新闻",
@@ -151,8 +152,32 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
+        },
+        {
+          "title": "特朗普要求切断美国与西班牙贸易往来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
+        },
+        {
+          "title": "特朗普先威胁“今夜”再打伊朗、恢复海上封锁，后“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "time_info": "[02时43分 ~ 04时15分]"
         },
         {
           "title": "美国队惨败，比利时首相：我不会刺激特朗普",
@@ -166,27 +191,15 @@
           "time_info": "[01时04分 ~ 02时44分]"
         },
         {
-          "title": "特朗普要求切断美国与西班牙贸易往来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            19
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
-        },
-        {
-          "title": "特朗普先威胁“今夜”再打伊朗、恢复海上封锁，后“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
+          "time_info": "[02时43分 ~ 04时15分]"
         },
         {
           "title": "特朗普：不认为会再次爆发伊朗战争",
@@ -199,17 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时04分 ~ 02时44分]"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 02时44分]"
         },
         {
           "title": "特朗普：“今夜可能再打伊朗”，可能会恢复对伊朗的海上封锁；伊朗：将对冒险行为做出“立即回应”",
@@ -339,7 +341,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
         },
@@ -383,7 +385,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
         },
@@ -443,6 +445,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "据NewsNation：白宫官员称，特朗普与内塔尼亚胡目前尚未安排会面，但特朗普此前透露内塔尼亚胡可能最早下周访问白宫。",
+          "url": "https://flash.jin10.com/detail/20260709032703537800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
           "title": "美国总统特朗普：我已指示包括洛克希德马丁(LMT.N)、雷神技术(RTX.N)在内的美国国防企业建设新工厂。",
           "url": "https://flash.jin10.com/detail/20260709001749782800",
           "source": "金十数据",
@@ -452,12 +465,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "市场消息：英国首相斯塔默称，即便卸任英国首相，他仍会继续与特朗普保持沟通。",
+          "url": "https://flash.jin10.com/detail/20260709032458311800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗披露美军袭击造成的伤亡情况",
@@ -467,8 +491,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
@@ -478,8 +502,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -489,8 +513,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "伊朗军方：若美国真的发动大规模战争，将会得到“惊喜”",
@@ -500,8 +524,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "美军称开始对伊朗发动系列打击",
@@ -512,8 +536,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "伊朗与卡塔尔通电话，讨论霍尔木兹海峡事件。",
@@ -522,9 +546,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "伊朗阿巴斯港传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3130875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "美国副总统万斯：（关于伊朗）如果他们向我们的船只开火，美国将予以回击。",
@@ -533,20 +568,54 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：班达尔阿巴斯附近防空系统正在拦截“敌对目标”。",
+          "url": "https://flash.jin10.com/detail/20260709040414478800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "报道：伊朗南部Bandar Abbas地区传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3130874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "美军时隔10天再袭伊朗",
           "url": "https://www.douyin.com/hot/2562712",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
+        },
+        {
+          "title": "据伊朗媒体：伊朗南部拉旺岛传出巨大爆炸声。<br/>",
+          "url": "https://flash.jin10.com/detail/20260709035932101800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "伊朗外交部：伊朗与卡塔尔就霍尔木兹海峡事件进行电话讨论，强调需继续沟通协调，以防止地区紧张局势升级。",
@@ -555,9 +624,53 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "伊朗媒体：霍尔木兹甘省多个地区传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260709035541529800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗锡里克岛防空系统已启动。",
+          "url": "https://flash.jin10.com/detail/20260709035439234800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社报道，当地时间7月8日深夜，伊朗南部霍尔木兹甘省首府阿巴斯港传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260709035225629800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "伊拉克同意，停止向支持伊朗的那些武装人员提供美元资金。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3130864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "消息人士：若美国发动袭击 伊朗将关闭霍尔木兹海峡",
@@ -571,6 +684,50 @@
           "time_info": "01时04分"
         },
         {
+          "title": "伊朗副外长：美国近期行动不会不了了之，伊朗将作出回应。",
+          "url": "https://flash.jin10.com/detail/20260709034855937800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗南部班达尔阿巴斯传出爆炸声，当地防空系统被启动。",
+          "url": "https://flash.jin10.com/detail/20260709034813185800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "伊朗外长与卡塔尔首相通话，强调外交渠道解决地区问题",
+          "url": "https://wallstreetcn.com/livenews/3130856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美国副总统万斯声称：伊朗核计划被摧毁了。 如果他们（伊朗）射击我们的船只，美国将采取行动。 如果伊朗试图关闭霍尔木兹海峡，美方将做出反应。",
+          "url": "https://wallstreetcn.com/livenews/3130859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
           "title": "伊朗称美军袭击造成8名伊朗军人死亡",
           "url": "https://wallstreetcn.com/livenews/3130813",
           "source": "华尔街见闻-快讯",
@@ -580,12 +737,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "万斯警告伊朗：若封锁霍尔木兹海峡将面临军事回应",
+          "url": "https://flash.jin10.com/detail/20260709033201821800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -595,8 +774,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
+        },
+        {
+          "title": "金十图示：2026年07月08日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260709040709587800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 金龙指数涨2%",
+          "url": "https://flash.jin10.com/detail/20260709040053032800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -606,8 +807,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "金十图示：2026年07月08日（周三）美股热门股票行情一览（美股盘中）",
@@ -654,11 +855,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         },
         {
           "title": "OpenAI推出GPT-Live语音模型",
@@ -667,9 +869,37 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数冲高回落，一度刷新一周高位",
+          "url": "https://wallstreetcn.com/livenews/3130872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
+        },
+        {
+          "title": "美元指数8日下跌",
+          "url": "https://flash.jin10.com/detail/20260709032717085800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时15分"
         }
       ]
     },
@@ -686,8 +916,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时04分 ~ 02时44分]"
+          "appearance_count": 4,
+          "time_info": "[01时04分 ~ 04时15分]"
         }
       ]
     }
