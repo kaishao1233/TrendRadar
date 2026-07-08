@@ -1,16 +1,11 @@
 {
-  "generated_at": "2026-07-08T14:38:09.085893+08:00",
-  "total_titles_processed": 1128,
-  "failed_sources": [
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "zhihu"
-  ],
+  "generated_at": "2026-07-08T17:14:23.841210+08:00",
+  "total_titles_processed": 1298,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 99,
+      "match_count": 100,
       "titles": [
         {
           "title": "美军：开始对伊朗发动系列打击",
@@ -34,8 +29,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时12分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[08时12分 ~ 17时14分]"
+        },
+        {
+          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
+          "url": "https://www.cls.cn/detail/2419839",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 17时14分]"
         },
         {
           "title": "美军发动打击，伊朗多地传出爆炸声",
@@ -49,6 +57,18 @@
           "time_info": "[07时09分 ~ 08时13分]"
         },
         {
+          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
+          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时36分 ~ 17时14分]"
+        },
+        {
           "title": "伊朗严正警告美国",
           "url": "https://news.ifeng.com/c/8ua7AYAEnAV",
           "source": "凤凰网",
@@ -60,16 +80,16 @@
           "time_info": "[07时09分 ~ 08时13分]"
         },
         {
-          "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
-          "url": "https://www.cls.cn/detail/2419839",
-          "source": "财联社热门",
+          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
+          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
+          "source": "凤凰网",
           "ranks": [
-            5,
+            4,
             3
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时51分 ~ 14时36分]"
+          "time_info": "[14时36分 ~ 17时14分]"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -92,17 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时51分 ~ 11时52分]"
-        },
-        {
-          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
-          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时38分]"
         },
         {
           "title": "伊朗总统中断哈梅内伊送葬仪式，从伊拉克紧急回国",
@@ -149,17 +158,6 @@
           "time_info": "[11时51分 ~ 11时52分]"
         },
         {
-          "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
-          "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时38分]"
-        },
-        {
           "title": "美国撤销伊朗石油制裁豁免，油价飙升",
           "url": "https://www.cls.cn/detail/2419758",
           "source": "财联社热门",
@@ -191,7 +189,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -202,7 +200,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -240,13 +238,24 @@
           "time_info": "08时13分"
         },
         {
+          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
+          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "伊朗军方称美在中东军事基地是“合法打击目标”",
           "url": "https://flash.jin10.com/detail/20260708141055790800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -322,6 +331,19 @@
           "time_info": "[02时20分 ~ 04时22分]"
         },
         {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时51分 ~ 17时14分]"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔召见伊朗副大使。",
           "url": "https://wallstreetcn.com/livenews/3130128",
           "source": "华尔街见闻-快讯",
@@ -358,16 +380,16 @@
           "time_info": "[11时51分 ~ 14时38分]"
         },
         {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
           "ranks": [
-            16,
-            11
+            17,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时51分 ~ 14时36分]"
+          "time_info": "[11时51分 ~ 17时14分]"
         },
         {
           "title": "美军称开始对伊朗发动一系列有力打击",
@@ -413,17 +435,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 14时38分]"
-        },
-        {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 11时52分]"
         },
         {
           "title": "美军对伊朗发动强力打击",
@@ -564,7 +575,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -696,7 +707,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -1122,7 +1133,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 41,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -1187,6 +1198,31 @@
           "time_info": "[00时07分 ~ 08时13分]"
         },
         {
+          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
+          "url": "https://www.cls.cn/detail/2419821",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时12分 ~ 17时14分]"
+        },
+        {
+          "title": "特朗普称美伊谅解备忘录已经结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "据Axios：一名美国官员表示，特朗普在土耳其参加北约峰会期间批准了针对伊朗的打击计划，并于今日下令实施。目前尚不清楚打击行动将持续多久。",
           "url": "https://flash.jin10.com/detail/20260708074240544800",
           "source": "金十数据",
@@ -1198,17 +1234,37 @@
           "time_info": "08时13分"
         },
         {
-          "title": "特朗普再次扬言控制格陵兰岛 美伊冲突狼烟又起 | 环球市场",
-          "url": "https://www.cls.cn/detail/2419821",
-          "source": "财联社热门",
+          "title": "特朗普声称美伊停火协议作废，北约峰会上直接破口大骂",
+          "url": "https://flash.jin10.com/detail/20260708164742398800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            9,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时12分 ~ 14时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "美国总统特朗普：我是一名成功的交易者。我跟伊朗人打交道时，我发现他们跟我不是一路人。",
+          "url": "https://flash.jin10.com/detail/20260708164722690800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "美国总统特朗普：北约不愿协助我们对抗伊朗，而伊朗是头号支持恐怖主义的国家。",
+          "url": "https://flash.jin10.com/detail/20260708164651461800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "特朗普承认与意女总理关系“变糟”：她人不错，但犯了个错误",
@@ -1244,6 +1300,50 @@
           "time_info": "[11时51分 ~ 11时52分]"
         },
         {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.toutiao.com/trending/7660070986934390335/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E4%BC%8A%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E2%80%9C%E5%B7%B2%E7%BB%88%E7%BB%93%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "特朗普发表讲话后，日经指数期货跌幅扩大至1.3%。 法国CAC指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3130541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "特朗普称美伊临时停火协议已结束",
+          "url": "https://flash.jin10.com/detail/20260708164249740800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "美国（国会山）民主党成员们发函Kalshi、Polymarket、以及特朗普媒体。",
           "url": "https://wallstreetcn.com/livenews/3130076",
           "source": "华尔街见闻-快讯",
@@ -1253,6 +1353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "特朗普称美伊备忘录“已终结” 局势已经回到了原点",
+          "url": "https://flash.jin10.com/detail/20260708164211261800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "Peabody股价快速转涨，该公司在稀土、关键矿物问题上获得美国能源部拨款，意味着其位于怀俄明州Powder River盆地的项目获得特朗普政府的支持。",
@@ -1266,6 +1377,28 @@
           "time_info": "00时07分"
         },
         {
+          "title": "壳牌涨4.1%，因特朗普表示停火已结束，油价随之上涨。",
+          "url": "https://flash.jin10.com/detail/20260708164141466800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "北约据悉考虑跳过2027年峰会 以避免与特朗普关系紧张",
+          "url": "https://wallstreetcn.com/livenews/3130536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "据华尔街日报：美国农业部将沃尔玛(WMT.N)的降价计划告知白宫。特朗普周一发文称这是政府施压取得的成果。几分钟后，沃尔玛发布新闻稿称，将下调数千种商品价格，以帮助消费者。",
           "url": "https://flash.jin10.com/detail/20260708072520020800",
           "source": "金十数据",
@@ -1277,13 +1410,24 @@
           "time_info": "08时13分"
         },
         {
+          "title": "英国富时100指数下跌1.4%，因美国总统特朗普表示停火已结束。",
+          "url": "https://flash.jin10.com/detail/20260708164010651800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "波兰总统：我昨天简短地与美国总统特朗普交谈，像往常一样，我们的讨论集中在美国军方在波兰的永久存在上。",
           "url": "https://flash.jin10.com/detail/20260708135217653800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -1308,6 +1452,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时13分"
+        },
+        {
+          "title": "美国总统特朗普：我完全不想跟西班牙人说话，他们无可救药，不是什么好人。",
+          "url": "https://flash.jin10.com/detail/20260708163829615800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "西班牙首相办公室（就特朗普下令切断贸易）发表声明：西班牙将这些表态视为“一切照常”处理。 我们国家与美国享有良好的社会、文化和经济关系，我们不打算改变这一点。",
+          "url": "https://wallstreetcn.com/livenews/3130529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "西班牙首相办公室：（关于特朗普下令切断贸易）西班牙将上述言论视为常态事务处理。",
+          "url": "https://flash.jin10.com/detail/20260708163739107800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://www.douyin.com/hot/2563445",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "欧股跌幅扩大，德国DAX指数下跌2%，法国CAC指数下跌1.7%，西班牙IBEX35指数跌超2%，特朗普要求全面切断与西班牙贸易。",
+          "url": "https://wallstreetcn.com/livenews/3130526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "特朗普再次声称格陵兰岛“应该由美国控制”",
@@ -1343,6 +1542,17 @@
           "time_info": "08时13分"
         },
         {
+          "title": "特朗普发表言论后，市场已完全定价英国央行年底前加息25个基点的预期。",
+          "url": "https://wallstreetcn.com/livenews/3130522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "土耳其官员：埃尔多安与特朗普讨论伊朗问题，呼吁解决战争并重开霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260708013258964800",
           "source": "金十数据",
@@ -1365,6 +1575,17 @@
           "time_info": "05时57分"
         },
         {
+          "title": "荷兰AEX指数下跌0.35%，因美国总统特朗普表示与伊朗的停火已结束。",
+          "url": "https://flash.jin10.com/detail/20260708163430647800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "特朗普一通电话毁了美国队",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -1379,7 +1600,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
@@ -1535,6 +1756,17 @@
           "time_info": "07时09分"
         },
         {
+          "title": "美股存储概念股盘前持续走低，闪迪股价盘前跌幅扩大至7%，美光科技下跌6%，西部数据跌超4%，希捷科技跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3130530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
           "title": "新兴市场ETF收跌超2.7%，与纳指ETF领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3130167",
           "source": "华尔街见闻-快讯",
@@ -1588,12 +1820,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "美股股指期货持续走低，纳斯达克100指数期货跌超1％，道琼斯指数期货跌0.85％，标普500指数期货跌0.67％。",
+          "url": "https://wallstreetcn.com/livenews/3130517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
+        },
+        {
+          "title": "特朗普称美伊谅解备忘录“已终结”，国际油价拉升，美股股指期货跳水",
+          "url": "https://wallstreetcn.com/livenews/3130515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
@@ -1668,6 +1922,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时51分 ~ 11时52分]"
+        },
+        {
+          "title": "吐槽 DeepSeek 面试的华为天才少年李博杰被投资人控诉诈骗跑路，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058168270499176758",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         }
       ]
     },
