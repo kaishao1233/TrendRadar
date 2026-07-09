@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T15:53:28.942519+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-07-09T19:15:28.787236+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 77,
+      "match_count": 87,
       "titles": [
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -178,6 +178,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "约旦政府：成功拦截了侵入国家空域的伊朗导弹。",
+          "url": "https://flash.jin10.com/detail/20260709190733933800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "报道：伊朗南部Bandar Abbas地区传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3130874",
           "source": "华尔街见闻-快讯",
@@ -187,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "美军驻约旦基地遭伊朗袭击",
+          "url": "https://wallstreetcn.com/livenews/3131336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：美国对伊朗发动袭击期间，投射物碎片击中了恰巴哈尔伊玛目阿里医院。",
@@ -280,6 +302,32 @@
           "time_info": "[07时55分 ~ 12时08分]"
         },
         {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 19时15分]"
+        },
+        {
+          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
+          "url": "https://www.zhihu.com/question/2058455554222027217",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 19时15分]"
+        },
+        {
           "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
           "url": "https://www.zhihu.com/question/2058125610363401206",
           "source": "知乎",
@@ -303,30 +351,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时36分 ~ 06时44分]"
-        },
-        {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 15时53分]"
-        },
-        {
-          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
-          "url": "https://www.zhihu.com/question/2058455554222027217",
-          "source": "知乎",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 15时53分]"
         },
         {
           "title": "伊朗：将大规模打击美军基地",
@@ -452,6 +476,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "【伊朗媒体：布什尔核电站周边区域遭美军袭击】伊朗媒体9日援引布什尔省副省长的话说，当日下午，布什尔省多地遭美军袭击，其中包括布什尔核电站周边区域。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3131324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "据伊朗媒体：伊朗锡里克岛防空系统已启动。",
@@ -586,6 +621,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "伊朗布什尔核电站周边遭到美国炮弹袭击。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3131315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗南部班达尔阿巴斯传出爆炸声，当地防空系统被启动。",
           "url": "https://flash.jin10.com/detail/20260709034813185800",
           "source": "金十数据",
@@ -718,6 +764,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "伊朗发射超重型导弹 目标为海湾国家境内美军基地",
+          "url": "https://flash.jin10.com/detail/20260709185231993800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "美军对伊朗实施新一轮打击",
           "url": "https://flash.jin10.com/detail/20260709041805420800",
           "source": "金十数据",
@@ -735,7 +792,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -762,13 +819,24 @@
           "time_info": "07时56分"
         },
         {
+          "title": "据伊朗媒体：伊朗导弹直接击中约旦一工业综合体。",
+          "url": "https://flash.jin10.com/detail/20260709185143136800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "伊朗军方称打击中东地区多个美军目标",
           "url": "https://wallstreetcn.com/livenews/3131158",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -817,6 +885,17 @@
           "time_info": "05时36分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：科威特境内的阿里·萨利姆空军基地及港口区域发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260709184850880800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗科纳拉克和恰巴哈尔附近传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260709041300738800",
           "source": "金十数据",
@@ -837,6 +916,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "据伊朗劳工通讯社：伊朗革命卫队已从全国各地发射超重型导弹，瞄准驻扎在波斯湾阿拉伯国家的美国基地。",
+          "url": "https://flash.jin10.com/detail/20260709184807081800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "报道称伊朗多地传出爆炸声，美军称执行一系列额外袭击",
@@ -861,6 +951,17 @@
           "time_info": "06时44分"
         },
         {
+          "title": "据伊朗国家媒体：伊朗布什尔核电站周边遭到美国炮弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260709184545855800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "伊朗称袭击科威特巴林3个美军基地",
           "url": "https://wallstreetcn.com/livenews/3131044",
           "source": "华尔街见闻-快讯",
@@ -870,12 +971,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时08分"
+        },
+        {
+          "title": "伊朗革命卫队指挥官：美以图谋在伊境内建立反政府组织",
+          "url": "https://wallstreetcn.com/livenews/3131288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -910,11 +1022,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时36分 ~ 15时53分]"
+          "appearance_count": 9,
+          "time_info": "[05时36分 ~ 19时15分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -976,11 +1089,12 @@
             16,
             15,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时43分 ~ 15时53分]"
+          "appearance_count": 12,
+          "time_info": "[02时43分 ~ 19时15分]"
         },
         {
           "title": "特朗普要求切断美国与西班牙贸易往来",
@@ -1088,6 +1202,19 @@
           "time_info": "01时04分"
         },
         {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 19时15分]"
+        },
+        {
           "title": "美国总统特朗普：我不确定是否想与伊朗领导人达成协议。",
           "url": "https://flash.jin10.com/detail/20260709003627213800",
           "source": "金十数据",
@@ -1097,18 +1224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/c/8ubvs5fh8MS",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 15时53分]"
         },
         {
           "title": "特朗普点名批评章家敦，释放一个明确信号",
@@ -1279,7 +1394,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1411,7 +1526,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -1546,6 +1661,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "美国总统特朗普：洛克希德马丁将于欧洲建立一家保障维护设施。",
@@ -1773,8 +1899,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 15时53分]"
+          "appearance_count": 6,
+          "time_info": "[07时55分 ~ 19时15分]"
         },
         {
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
