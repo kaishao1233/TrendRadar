@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T22:04:03.717102+08:00",
-  "total_titles_processed": 1666,
+  "generated_at": "2026-07-14T23:45:28.802913+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 22时04分]"
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 23时45分]"
         },
         {
           "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 22时04分]"
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 23时45分]"
         },
         {
           "title": "最高领袖誓言复仇，伊朗锁死霍尔木兹海峡，硬刚美国最后通牒",
@@ -77,28 +77,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时25分 ~ 08时12分]"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
-        },
-        {
-          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
-          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗布什尔省贾姆县传出数次爆炸声。",
@@ -190,6 +168,18 @@
           "time_info": "14时02分"
         },
         {
+          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
+          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时03分 ~ 23时45分]"
+        },
+        {
           "title": "伊朗发起行动，回应“敌方最新侵略行径”",
           "url": "https://news.ifeng.com/c/8ukUFVFXxOi",
           "source": "凤凰网",
@@ -218,9 +208,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时03分 ~ 23时45分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗和俄罗斯不接受单边主义，也不接受将意志强加于其他国家。",
@@ -328,6 +330,18 @@
           "time_info": "[05时08分 ~ 06时09分]"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.toutiao.com/trending/7662353080528145926/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时03分 ~ 23时45分]"
+        },
+        {
           "title": "伊朗称布什尔市四个地区遭美军袭击",
           "url": "https://www.toutiao.com/trending/7662322212086484530/",
           "source": "今日头条",
@@ -340,15 +354,16 @@
           "time_info": "[19时52分 ~ 22时04分]"
         },
         {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.toutiao.com/trending/7662353080528145926/",
-          "source": "今日头条",
+          "title": "伊朗前总统内贾德被软禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E8%A2%AB%E8%BD%AF%E7%A6%81%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            16,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
+          "appearance_count": 3,
+          "time_info": "[22时03分 ~ 23时45分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗军方消息称，伊军已出动无人机打击位于科威特的美军军事设施和装备。 伊朗用巡航导弹瞄准了一艘“敌对”的美国舰艇。",
@@ -421,17 +436,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时15分 ~ 08时12分]"
-        },
-        {
-          "title": "伊朗前总统内贾德被软禁",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E8%A2%AB%E8%BD%AF%E7%A6%81%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
         },
         {
           "title": "美军连续第三晚空袭伊朗",
@@ -874,6 +878,17 @@
           "time_info": "16时26分"
         },
         {
+          "title": "伊朗准备打出曼德海峡牌？胡塞武装高层警告：油价或直冲200美元！",
+          "url": "https://flash.jin10.com/detail/20260714225825332800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "当地时间7月14日，约旦方面称拦截并击落了四枚从伊朗进入约旦领空的导弹。（央视新闻）",
           "url": "https://wallstreetcn.com/livenews/3133325",
           "source": "华尔街见闻-快讯",
@@ -883,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "55名被阿联酋拘留的伊朗渔民已获释",
+          "url": "https://www.toutiao.com/trending/7662372959964643378/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "伊朗称霍尔木兹海峡南部航道“不安全”",
@@ -921,7 +947,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 76,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -934,8 +960,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时14分 ~ 22时04分]"
+          "appearance_count": 13,
+          "time_info": "[07时14分 ~ 23时45分]"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 23时45分]"
         },
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -950,19 +989,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时25分 ~ 19时52分]"
-        },
-        {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时42分 ~ 22时04分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -992,6 +1018,21 @@
           "time_info": "[00时25分 ~ 08时12分]"
         },
         {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 23时45分]"
+        },
+        {
           "title": "特朗普点名中东六国",
           "url": "https://news.ifeng.com/c/8ukJUmAUZFg",
           "source": "凤凰网",
@@ -1002,20 +1043,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时42分 ~ 14时02分]"
-        },
-        {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 22时04分]"
         },
         {
           "title": "德国两年期国债收益率涨超7个基点，投资者关注特朗普对霍尔木兹海峡的最新态度",
@@ -1195,6 +1222,18 @@
           "time_info": "[14时02分 ~ 16时26分]"
         },
         {
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时03分 ~ 23时45分]"
+        },
+        {
           "title": "美国总统特朗普签署针对“特定固定污染源”的监管豁免公告。 白宫发布关于监管豁免的总统公告。 特朗普豁免特定污染源遵守“HON规则”（有害空气污染物国家排放标准）。",
           "url": "https://wallstreetcn.com/livenews/3133122",
           "source": "华尔街见闻-快讯",
@@ -1279,17 +1318,6 @@
           "time_info": "[06时09分 ~ 07时15分]"
         },
         {
-          "title": "如何看特朗普在霍尔木兹收费",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
-        },
-        {
           "title": "特朗普针对霍尔木兹海峡的要求意味着每艘超级油轮需缴费3,000万美元，本来伊朗只收最多200万",
           "url": "https://wallstreetcn.com/livenews/3133113",
           "source": "华尔街见闻-快讯",
@@ -1336,6 +1364,17 @@
           "time_info": "[18时20分 ~ 18时21分]"
         },
         {
+          "title": "美国总统特朗普：美国再次取得了胜利，并且以一种前所未有的方式赢了。",
+          "url": "https://flash.jin10.com/detail/20260714231455429800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "联合国航运机构发言人：联合国航运机构正在等待关于美国总统特朗普提到的美国将对通过霍尔木兹海峡的货物收取20%费用的进一步细节。",
           "url": "https://flash.jin10.com/detail/20260714000537543800",
           "source": "金十数据",
@@ -1356,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普再打封锁牌！“NACHO对赌”野蛮复活，油价只会易涨难跌？",
@@ -1380,6 +1430,28 @@
           "time_info": "08时12分"
         },
         {
+          "title": "特朗普：仅封锁伊朗海运，以海湾投资取代美国20%补偿费",
+          "url": "https://flash.jin10.com/detail/20260714231112755800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "特朗普放弃20%霍尔木兹海峡货运补偿费主张，要求用贸易协议替换，油价回吐涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3133746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普称中东盟友应支付保护费",
           "url": "https://flash.jin10.com/detail/20260714062643321800",
           "source": "金十数据",
@@ -1389,6 +1461,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：特朗普在白宫会见伊拉克总理。",
+          "url": "https://flash.jin10.com/detail/20260714231039053800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
+          "title": "美联储主席沃什：即便特朗普谴责我，我也要根据数据来采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3133745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普称中东盟友应支付保护费",
@@ -1479,6 +1573,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "美国总统特朗普：海湾国家将对美国进行投资。",
+          "url": "https://flash.jin10.com/detail/20260714230632680800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）今晚和明天将对他们进行严厉打击。",
           "url": "https://flash.jin10.com/detail/20260714041014877800",
           "source": "金十数据",
@@ -1490,6 +1595,17 @@
           "time_info": "05时08分"
         },
         {
+          "title": "美国总统特朗普：我们将实施全面封锁，但仅针对往返伊朗港口的船只。",
+          "url": "https://flash.jin10.com/detail/20260714230614883800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "伊朗外长：特朗普对霍尔木兹海峡收费20%的比例“太过分了”。 伊朗一直是霍尔木兹海峡的守护者。",
           "url": "https://wallstreetcn.com/livenews/3133037",
           "source": "华尔街见闻-快讯",
@@ -1499,6 +1615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "特朗普：决定用贸易协议替代20%的通行费用",
+          "url": "https://flash.jin10.com/detail/20260714230606885800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普将于周五早上9点发表全国讲话",
@@ -1521,6 +1648,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        },
+        {
+          "title": "美国总统特朗普：霍尔木兹海峡对所有船只开放，但伊朗除外，这是因为他们那谎话连篇的领导层正将他们引向彻底毁灭之路。",
+          "url": "https://flash.jin10.com/detail/20260714230519999800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普：仍可能与伊朗达成协议",
@@ -1567,6 +1705,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "美国总统特朗普：石油流动前所未有，这要感谢美国军队的强大力量。",
+          "url": "https://flash.jin10.com/detail/20260714230500031800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
           "url": "https://flash.jin10.com/detail/20260714024104744800",
           "source": "金十数据",
@@ -1589,6 +1738,17 @@
           "time_info": "19时52分"
         },
         {
+          "title": "美联储主席沃什：我会根据数据行事，即使特朗普对我提出批评。",
+          "url": "https://flash.jin10.com/detail/20260714230237961800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "特朗普宣布重新开战",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E9%87%8D%E6%96%B0%E5%BC%80%E6%88%98%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1609,6 +1769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时08分"
+        },
+        {
+          "title": "美国最高法院法官Barrett：（特朗普政府）在国会山预算听证会上释放的威胁水平相当高。",
+          "url": "https://wallstreetcn.com/livenews/3133730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "特朗普已通知国会伊朗战事重新爆发",
@@ -1658,7 +1829,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -1667,11 +1838,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时12分 ~ 22时04分]"
+          "appearance_count": 11,
+          "time_info": "[08时12分 ~ 23时45分]"
         },
         {
           "title": "AI恐慌叠加中东局势升温，美股指盘中齐跌，SK海力士跌7%，油价涨超4%，黄金跌超2%，",
@@ -1768,6 +1940,17 @@
           "time_info": "[00时25分 ~ 06时09分]"
         },
         {
+          "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        },
+        {
           "title": "高盛：盈利增长仍是美股驱动力，但美联储加息将从三方面造成影响",
           "url": "https://flash.jin10.com/detail/20260714015018155800",
           "source": "金十数据",
@@ -1796,7 +1979,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1887,7 +2070,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1931,7 +2114,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -2019,7 +2202,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -2059,59 +2242,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美元指数13日上涨",
-          "url": "https://flash.jin10.com/detail/20260714043133599800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时08分 ~ 06时09分]"
-        },
-        {
-          "title": "美元指数短线走低约30点，现货黄金短线拉升约70美元",
-          "url": "https://wallstreetcn.com/livenews/3133666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.18%，暂报2156.48点。 MarketVectorTM数字资产100中盘指数跌3.47%，报2580.37点。 MarketVector数字资产100指数跌2.95%，报12395.59点。 目前，Solana跌3.03%，狗狗币跌2.52%，XRP跌2.91%。 比特币跌3.04%，暂报62208.11美元；以太坊跌2.78%，暂报1769.52美元。",
-          "url": "https://wallstreetcn.com/livenews/3133014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美元指数涨0.3%，刷新日高",
-          "url": "https://wallstreetcn.com/livenews/3133062",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
@@ -2152,12 +2284,74 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时52分 ~ 22时04分]"
+        },
+        {
+          "title": "金价又绷不住了网友直言想抄底",
+          "url": "https://www.toutiao.com/trending/7661722713741295679/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数13日上涨",
+          "url": "https://flash.jin10.com/detail/20260714043133599800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时08分 ~ 06时09分]"
+        },
+        {
+          "title": "美元指数短线走低约30点，现货黄金短线拉升约70美元",
+          "url": "https://wallstreetcn.com/livenews/3133666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.18%，暂报2156.48点。 MarketVectorTM数字资产100中盘指数跌3.47%，报2580.37点。 MarketVector数字资产100指数跌2.95%，报12395.59点。 目前，Solana跌3.03%，狗狗币跌2.52%，XRP跌2.91%。 比特币跌3.04%，暂报62208.11美元；以太坊跌2.78%，暂报1769.52美元。",
+          "url": "https://wallstreetcn.com/livenews/3133014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "美元指数涨0.3%，刷新日高",
+          "url": "https://wallstreetcn.com/livenews/3133062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时08分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -2172,8 +2366,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时42分 ~ 22时04分]"
+          "appearance_count": 10,
+          "time_info": "[11时42分 ~ 23时45分]"
         },
         {
           "title": "DeepSeek梁文锋成AI公司新首富",
@@ -2185,6 +2379,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[22时03分 ~ 22时04分]"
+        },
+        {
+          "title": "DeepSeek估值或达4814亿",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%B0%E5%80%BC%E6%88%96%E8%BE%BE4814%E4%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         }
       ]
     },
@@ -2204,8 +2409,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时02分 ~ 22时04分]"
+          "appearance_count": 9,
+          "time_info": "[14时02分 ~ 23时45分]"
         },
         {
           "title": "亚马逊云服务(AWS)：OpenAI GPT-5.6 SOL、TERRA 和 LUNA 现已在亚马逊基础设施上全面上线。",
@@ -2234,8 +2439,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时25分 ~ 22时04分]"
+          "appearance_count": 8,
+          "time_info": "[16时25分 ~ 23时45分]"
         },
         {
           "title": "摩根大通建议平仓美债长端利差交易 静待CPI与沃什证词",
@@ -2261,7 +2466,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
