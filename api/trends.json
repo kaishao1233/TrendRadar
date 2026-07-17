@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T22:12:14.252107+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-07-17T23:50:22.513015+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 84,
+      "match_count": 90,
       "titles": [
         {
           "title": "伊朗：造成大量美军人员死亡",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔以最强烈言辞谴责伊朗对其领土及若干兄弟国家领土的新一轮侵略。",
+          "url": "https://flash.jin10.com/detail/20260717234153130800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
@@ -116,7 +127,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -132,6 +143,17 @@
           "time_info": "12时32分"
         },
         {
+          "title": "美国否认叙利亚境内美军基地遭伊朗袭击",
+          "url": "https://wallstreetcn.com/livenews/3135828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗城市阿瓦士传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260717030750035800",
           "source": "金十数据",
@@ -141,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美军袭击伊朗哈尔克岛油轮",
+          "url": "https://flash.jin10.com/detail/20260717233357915800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "报道：美军袭击伊朗南部发电站和机场",
@@ -251,6 +284,18 @@
           "time_info": "[12时31分 ~ 15时03分]"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时11分 ~ 23时50分]"
+        },
+        {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3135256",
           "source": "华尔街见闻-快讯",
@@ -261,17 +306,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时40分]"
-        },
-        {
-          "title": "伊朗称摧毁多架美军战斗机",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 22时12分]"
         },
         {
           "title": "伊朗多地遭袭击",
@@ -681,6 +715,17 @@
           "time_info": "05时40分"
         },
         {
+          "title": "伊朗打击位于科威特和叙利亚的美军目标",
+          "url": "https://wallstreetcn.com/livenews/3135815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "伊朗袭击美军驻叙指挥部，击毙“大量”美军",
           "url": "https://flash.jin10.com/detail/20260717141455990800",
           "source": "金十数据",
@@ -824,6 +869,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "安巴尼旗下信实工业无视伊朗战争阴霾，利润超预期",
+          "url": "https://wallstreetcn.com/livenews/3135810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗布什尔省省长表示，在美国持续发动袭击背景下，布什尔市当地时间稍早传出两次爆炸声，相关情况仍在进一步调查中。",
           "url": "https://flash.jin10.com/detail/20260717033207726800",
           "source": "金十数据",
@@ -918,9 +974,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
+        },
+        {
+          "title": "伊朗：海峡目前仍被我们牢牢把控",
+          "url": "https://flash.jin10.com/detail/20260717224859676800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         },
         {
           "title": "伊朗革命卫队：打击叙利亚美军指挥中心 造成大量美军人员死亡",
@@ -948,7 +1015,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -960,8 +1027,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时14分 ~ 22时12分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 23时50分]"
         },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
@@ -983,8 +1050,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时21分 ~ 22时12分]"
+          "appearance_count": 6,
+          "time_info": "[17时21分 ~ 23时50分]"
         },
         {
           "title": "特朗普：我们47年前就应该攻击伊朗，那样会容易得多",
@@ -1078,6 +1145,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
+        },
+        {
           "title": "美国总统特朗普：我们拥有世界上最强大的军队。美国在伊朗问题上占据上风。",
           "url": "https://flash.jin10.com/detail/20260717090653215800",
           "source": "金十数据",
@@ -1161,7 +1239,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1356,7 +1434,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -1364,11 +1442,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时14分 ~ 22时12分]"
+          "appearance_count": 12,
+          "time_info": "[09时14分 ~ 23时50分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -1421,11 +1500,12 @@
           "url": "https://wallstreetcn.com/articles/3777186",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 22时12分]"
+          "appearance_count": 3,
+          "time_info": "[22时11分 ~ 23时50分]"
         },
         {
           "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
@@ -1458,7 +1538,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1617,7 +1697,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1628,7 +1708,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时12分"
         },
@@ -1664,6 +1744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "美股存储板块全部转涨，纷纷收复盘初4%-7%的跌幅，当前，美光科技涨2.77%，西部数据涨0.07%，希捷科技涨1.94%，闪迪涨2.64%，SK海力士涨3.74%。费城半导体指数跌幅也收窄至1.7%，现报11655点，以前一度大跌5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3135803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         }
       ]
     },
@@ -1878,8 +1969,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 22时12分]"
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 23时50分]"
         },
         {
           "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
@@ -1913,6 +2004,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
+          "url": "https://www.cls.cn/detail/2428987",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 15时03分]"
+        },
+        {
+          "title": "【世界黄金协会：中国市场黄金ETF上半年实现显著流入】7月17日，世界黄金协会数据显示，6月金价走弱，抹去前期涨幅，上半年最终以下跌收官。尽管6月有流出，中国市场黄金ETF上半年仍实现显著流入，推动资产管理总规模（AUM）小幅升至2430亿元人民币，总持仓增加29吨至277吨。6月，中国市场黄金ETF流出150亿元人民币，为有记录以来最疲弱的单月表现。",
+          "url": "https://wallstreetcn.com/livenews/3135688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        },
+        {
+          "title": "李大霄分析今年黄金价格波动逻辑",
+          "url": "https://www.toutiao.com/trending/7663489935982202410/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时50分"
         }
       ]
     },
@@ -1986,34 +2116,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时43分 ~ 09时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】美股存储股再遭重挫；美军连续空袭伊朗；油价、金价双双下跌；多只芯片股发布重要公告",
-          "url": "https://www.cls.cn/detail/2428987",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 15时03分]"
-        },
-        {
-          "title": "【世界黄金协会：中国市场黄金ETF上半年实现显著流入】7月17日，世界黄金协会数据显示，6月金价走弱，抹去前期涨幅，上半年最终以下跌收官。尽管6月有流出，中国市场黄金ETF上半年仍实现显著流入，推动资产管理总规模（AUM）小幅升至2430亿元人民币，总持仓增加29吨至277吨。6月，中国市场黄金ETF流出150亿元人民币，为有记录以来最疲弱的单月表现。",
-          "url": "https://wallstreetcn.com/livenews/3135688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时21分"
         }
       ]
     },
