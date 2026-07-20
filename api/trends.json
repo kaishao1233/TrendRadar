@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T16:15:07.436275+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2026-07-20T19:18:44.081372+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -31,6 +31,18 @@
           "time_info": "[00时09分 ~ 09时14分]"
         },
         {
+          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
+          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 19时18分]"
+        },
+        {
           "title": "协议成废纸,伊朗掀桌硬刚美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时09分 ~ 12时57分]"
-        },
-        {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 16时15分]"
         },
         {
           "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
@@ -78,8 +78,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 19时18分]"
+        },
+        {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[12时57分 ~ 16时15分]"
+          "time_info": "[16时14分 ~ 19时18分]"
         },
         {
           "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
@@ -102,17 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时09分 ~ 01时17分]"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "美国中央司令部：一名驻伊拉克北部的美军军人于7月18日在执行作战任务时死亡。当时，该军人正在对一架被击落的伊朗单向攻击无人机遗留的未爆炸弹进行受控引爆处理。另有一名美军军人在此次事件中受伤。",
@@ -168,7 +168,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -617,7 +617,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -628,7 +628,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -639,7 +639,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -661,7 +661,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -694,9 +694,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "巴林民航局：伊朗针对民用航空导航设备的袭击未影响正常运营。航班和过境航行正常进行。",
+          "url": "https://flash.jin10.com/detail/20260720185912115800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "伊朗：只有各方都致力于履行，谅解备忘录才有价值。",
@@ -705,9 +716,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "巴林民航局：伊朗的攻击瞄准了巴林的民用航空导航设备。",
+          "url": "https://flash.jin10.com/detail/20260720185859148800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "伊朗向敌方目标发射新一波导弹",
@@ -771,7 +793,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -815,7 +837,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -829,6 +851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "巴基斯坦政府消息人士：巴基斯坦和卡塔尔联合提出一项局势降级提议，呼吁美国和伊朗恢复至7月9日之前的状态，作为恢复谈判的“第一步”。",
+          "url": "https://flash.jin10.com/detail/20260720185305438800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "一名美军人员在伊拉克执行涉伊朗任务时死亡",
@@ -911,7 +944,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国援外大转向：特朗普要向欧洲输出“MAGA”",
@@ -1040,6 +1073,19 @@
           "time_info": "[02时14分 ~ 04时29分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时57分 ~ 19时18分]"
+        },
+        {
           "title": "特朗普政府：将在未来数周、数月设法降低能源价格",
           "url": "https://wallstreetcn.com/livenews/3136290",
           "source": "华尔街见闻-快讯",
@@ -1103,18 +1149,6 @@
           "time_info": "[03时37分 ~ 05时29分]"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时57分 ~ 16时15分]"
-        },
-        {
           "title": "美军死亡人数达到17人，特朗普仍然在战略应对方面沉默不语",
           "url": "https://wallstreetcn.com/livenews/3136355",
           "source": "华尔街见闻-快讯",
@@ -1147,6 +1181,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "特朗普隔着防弹玻璃现场看世界杯决赛",
+          "url": "https://www.toutiao.com/trending/7664367574197469203/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "特朗普：与卡尼关系良好。 必须阻止加拿大火灾蔓延进来。 也许加拿大应该为火灾支付一些赔偿金。 与卡尼就加拿大火灾和森林管理问题通了电话。",
@@ -1270,6 +1315,17 @@
           "time_info": "00时09分"
         },
         {
+          "title": "大V谈特朗普颁奖后赖着不走",
+          "url": "https://www.toutiao.com/trending/7664551205074374187/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "美国总统特朗普：苏格兰阿伯丁的市民们正在街头载歌载舞，因为即将就任的英国首相伯纳姆宣布，他将全面开放宝贵的北海石油资源。",
           "url": "https://flash.jin10.com/detail/20260719220638278800",
           "source": "金十数据",
@@ -1306,7 +1362,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股盘前，中概股普涨，百度涨约4%，携程网涨约5%，阿里巴巴涨约4%。",
@@ -1315,7 +1371,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1329,6 +1385,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时57分 ~ 16时15分]"
+        },
+        {
+          "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
+          "title": "美股存储芯片股盘前走高，闪迪涨约4%，SK海力士涨约5%，美光科技涨约4%，西部数据、希捷科技涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3136836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "美股股指期货周一基本平开。",
@@ -1348,7 +1426,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1362,12 +1440,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "达美乐比萨第二季度营收11.9亿美元，同比增长4.3%，预估11.8亿美元。 第二季度每股收益4.07美元，上年同期3.81美元，预估4.18美元。 达美乐比萨美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3136804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -1393,6 +1482,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时09分 ~ 05时29分]"
+        },
+        {
+          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
+          "url": "https://www.zhihu.com/question/2059057378591613636",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "用Deepseek生成战地游戏",
