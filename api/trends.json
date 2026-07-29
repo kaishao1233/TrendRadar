@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T15:32:02.173359+08:00",
-  "total_titles_processed": 1172,
+  "generated_at": "2026-07-29T18:15:56.269151+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -138,6 +138,17 @@
           "time_info": "03时53分"
         },
         {
+          "title": "伊朗要求霍尔木兹海峡通行船只须经伊朗水域",
+          "url": "https://flash.jin10.com/detail/20260729174044581800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "伊朗：德黑兰与基辅均无意在船只遇袭后升级局势。",
           "url": "https://wallstreetcn.com/livenews/3141164",
           "source": "华尔街见闻-快讯",
@@ -169,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 18时15分]"
         },
         {
           "title": "伊朗副外长：我们与美国之间仍在交换信息，但过去几天，伊朗并未提出与美国进行谈判的请求。",
@@ -227,17 +249,6 @@
           "time_info": "[07时34分 ~ 09时09分]"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 15时32分]"
-        },
-        {
           "title": "美以领导人会晤，聚焦伊朗核问题",
           "url": "https://wallstreetcn.com/livenews/3141150",
           "source": "华尔街见闻-快讯",
@@ -250,23 +261,23 @@
           "time_info": "[02时07分 ~ 03时53分]"
         },
         {
-          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
-          "url": "https://www.cls.cn/detail/2439585",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时32分 ~ 15时32分]"
-        },
-        {
           "title": "对伊朗军事行动以来，美以领导人首次会晤",
           "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
           "source": "澎湃新闻",
           "ranks": [
             16,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时32分 ~ 18时15分]"
+        },
+        {
+          "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
+          "url": "https://www.cls.cn/detail/2439585",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -609,6 +620,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "俄外交部：乌方打击里海水域伊朗商船是“侵略行径”",
+          "url": "https://wallstreetcn.com/livenews/3141587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "乌克兰外交部长：已致电伊朗部长，以便进行“直接对话”。",
           "url": "https://flash.jin10.com/detail/20260729010620108800",
           "source": "金十数据",
@@ -714,7 +736,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -733,7 +755,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -782,6 +804,18 @@
           "time_info": "[00时50分 ~ 05时16分]"
         },
         {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 18时15分]"
+        },
+        {
           "title": "内塔尼亚胡访美，向特朗普提出对伊“终极条件”",
           "url": "https://news.ifeng.com/c/8v99XqcoCB0",
           "source": "凤凰网",
@@ -792,17 +826,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 12时32分]"
-        },
-        {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
           "title": "伊朗否认特朗普的说法，称：并没有在过去16-17天内寻求与美国对话",
@@ -828,6 +851,17 @@
           "time_info": "[15时31分 ~ 15时32分]"
         },
         {
+          "title": "据AXIOS：乌克兰总统泽连斯基向特朗普请求在冬季之前提供300台爱国者拦截器。泽连斯基称，美国特使可能在未来两周内访问基辅。",
+          "url": "https://flash.jin10.com/detail/20260729173828426800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "特朗普与内塔尼亚胡90分钟会晤后称“富有成效”，美以裂痕暂时降温？",
           "url": "https://flash.jin10.com/detail/20260729065541832800",
           "source": "金十数据",
@@ -839,6 +873,17 @@
           "time_info": "07时34分"
         },
         {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "对伊朗军事行动以来 特朗普与内塔尼亚胡首次会晤",
           "url": "https://wallstreetcn.com/livenews/3141157",
           "source": "华尔街见闻-快讯",
@@ -848,6 +893,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "据CNN：以色列总理内塔尼亚胡刚刚离开白宫西翼。（据悉其与特朗普的会议结束）",
@@ -933,7 +989,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1018,7 +1074,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -1032,8 +1088,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 15时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 18时15分]"
         },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -1057,11 +1113,12 @@
             11,
             12,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 15时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 18时15分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -1076,17 +1133,6 @@
           "time_info": "[07时34分 ~ 15时32分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时09分 ~ 15时32分]"
-        },
-        {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
           "url": "https://wallstreetcn.com/articles/3778058",
           "source": "华尔街见闻",
@@ -1096,6 +1142,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 03时53分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时09分 ~ 18时15分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -1191,6 +1249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "美股存储芯片概念股普跌，闪迪收跌14.25%，Rambus跌8.99%，美光科技跌8.85%，希捷科技跌8.53%，西部数据跌6.95%。 此外，SK海力士ADR跌8.98%。",
@@ -1500,7 +1569,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
