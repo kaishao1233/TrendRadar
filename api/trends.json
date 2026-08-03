@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T12:41:55.736729+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-08-03T19:43:48.281477+08:00",
+  "total_titles_processed": 1145,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 19时43分]"
         },
         {
           "title": "伊朗重申霍尔木兹海峡不会恢复至战前状态",
@@ -353,7 +353,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -389,6 +389,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "伊朗称在霍尔木兹上空击落一架无人机",
+          "url": "https://www.toutiao.com/trending/7669730325030768182/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "伊朗外交部发言人：华盛顿未按期允许霍尔木兹海峡航运恢复，并在期限届满前对我们发动攻击。",
@@ -468,6 +479,17 @@
           "time_info": "01时38分"
         },
         {
+          "title": "CNN高级国家安全记者Zachary Cohen：消息人士透露，美国中央司令部情报部门的一名军官在上周三发给军事分析人士的邮件中写道：“我们正在寻找新的、富有创意的、非常规的方法来向伊朗施压和惩罚他们。”",
+          "url": "https://flash.jin10.com/detail/20260803184648008800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "美军称对伊朗海上封锁仍在继续",
           "url": "https://wallstreetcn.com/livenews/3143766",
           "source": "华尔街见闻-快讯",
@@ -526,7 +548,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -625,6 +647,17 @@
           "time_info": "[09时01分 ~ 12时41分]"
         },
         {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
           "url": "https://flash.jin10.com/detail/20260803064716887800",
           "source": "金十数据",
@@ -654,7 +687,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -827,7 +860,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -849,7 +882,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -953,6 +986,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "据纽约邮报：国际足联主席因凡蒂诺希望特朗普政府帮助其留任，并已安排与美国国务卿鲁比奥进行私下磋商。",
+          "url": "https://flash.jin10.com/detail/20260803185314571800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "特朗普称美伊3日将举行谈判",
           "url": "https://wallstreetcn.com/livenews/3143742",
           "source": "华尔街见闻-快讯",
@@ -984,12 +1028,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-03）",
+          "url": "https://flash.jin10.com/detail/20260803185058538800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -1036,15 +1091,48 @@
           "time_info": "[03时58分 ~ 09时01分]"
         },
         {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.toutiao.com/trending/7669679149316836902/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
           "title": "DeepSeek-V4-Flash正式版API登陆国家超算互联网",
           "url": "https://flash.jin10.com/detail/20260803113453343800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "DeepSeek模型单日吞下8万亿Token",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%A8%A1%E5%9E%8B%E5%8D%95%E6%97%A5%E5%90%9E%E4%B8%8B8%E4%B8%87%E4%BA%BFToken",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         },
         {
           "title": "用DeepSeek翻译GalGame",
@@ -1056,6 +1144,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "神了,OpenAI攻克十年数学难题",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时27分 ~ 12时41分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
@@ -1092,37 +1232,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            19,
-            28
-          ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 12时41分]"
-        },
-        {
-          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
-          "url": "https://www.zhihu.com/question/2066921241156523798",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时41分"
         }
@@ -1139,7 +1249,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -1150,9 +1260,38 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时27分 ~ 07时13分]"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股期指走高，阿里巴巴盘前涨超5%，WTI油价跌超5%，日元冲高回落",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     },
@@ -1167,27 +1306,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
-          "url": "https://www.cls.cn/detail/2443270",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 07时13分]"
         }
       ]
     }
