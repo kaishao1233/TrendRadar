@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T14:09:26.536382+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-08-05T17:06:56.341294+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "美财长透露与伊朗达成协议的时间",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 14时09分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 17时06分]"
         },
         {
           "title": "美财长透露与伊朗达成协议时间",
@@ -48,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 14时09分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 17时06分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -86,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "伊朗国家电视台：伊朗和阿曼针对霍尔木兹海峡的谈判与海峡立即重新开放无关。 海峡重新开放取决于美国改变其行为。",
+          "url": "https://wallstreetcn.com/livenews/3145296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
@@ -145,6 +156,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时21分 ~ 11时22分]"
+        },
+        {
+          "title": "伊朗：若美国继续违规，即使达成协议海峡也不会开放",
+          "url": "https://flash.jin10.com/detail/20260805164916723800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         },
         {
           "title": "伊朗外交部发言人：正在谈判中的航线旨在确保伊朗和阿曼双方的主权权利及国家安全考量。",
@@ -257,6 +279,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "伊朗与巴基斯坦签署新伙伴关系协议，剑指100亿美元贸易目标",
+          "url": "https://flash.jin10.com/detail/20260805164052428800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "报道：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
           "url": "https://wallstreetcn.com/livenews/3144915",
           "source": "华尔街见闻-快讯",
@@ -321,12 +354,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时20分"
+        },
+        {
+          "title": "伊朗：若美方继续干预 霍尔木兹海峡协议就无法达成",
+          "url": "https://wallstreetcn.com/livenews/3145264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -504,6 +548,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "美股史上最大解禁冲击来袭！SpaceX即将迎来真正考验",
+          "url": "https://www.cls.cn/detail/2446161",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "周二（8月4日），美股存储芯片与硬件供应链指数涨6.74%，报202.90点。 成分股闪迪收涨10.84%，泰瑞达涨10.32%，Rambus、拉姆研究、美光科技至少涨7.62%，应用材料、西部数据至少涨4.05%，希捷科技涨1.72%。此外，SK海力士ADR涨8.17%。",
           "url": "https://wallstreetcn.com/livenews/3144978",
           "source": "华尔街见闻-快讯",
@@ -579,6 +634,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "美股盘前，SpaceX下跌7%，公司营收增92%大超预期，资本支出激增；AMD跌超7%，Q2营收、利润均超预期，Q3指引未满足激进投资者预期。",
+          "url": "https://wallstreetcn.com/livenews/3145253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
@@ -607,8 +673,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 14时09分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 17时06分]"
         },
         {
           "title": "特朗普：霍尔木兹海峡将很快重新开放。 如果伊朗再次反悔，他们将遭受重创。 我们与伊朗的谈判非常顺利。",
@@ -783,7 +849,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
@@ -858,6 +924,17 @@
           "time_info": "[11时21分 ~ 11时22分]"
         },
         {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
           "title": "报道：DeepSeek重启融资，投前估值5000亿元",
           "url": "https://wallstreetcn.com/livenews/3145053",
           "source": "华尔街见闻-快讯",
@@ -894,8 +971,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 14时09分]"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 17时06分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -985,6 +1062,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年08月05日（周三）上海金早盘价为890.65元/克，较国际金价(895.27元/克)，低4.62元/克",
+          "url": "https://flash.jin10.com/detail/20260805105220632800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "随着金价接近一个月高点，美股黄金矿商盘前上涨。纽蒙特矿业(NEM.N)涨3.5%，金田(GFI.N)涨5.4%，哈莫尼黄金(HMY.N)涨4.6%。SPDR黄金ETF涨2.1%。",
+          "url": "https://flash.jin10.com/detail/20260805163622129800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -1006,28 +1111,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时21分 ~ 14时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月05日（周三）上海金早盘价为890.65元/克，较国际金价(895.27元/克)，低4.62元/克",
-          "url": "https://flash.jin10.com/detail/20260805105220632800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "appearance_count": 4,
+          "time_info": "[11时21分 ~ 17时06分]"
         }
       ]
     },
