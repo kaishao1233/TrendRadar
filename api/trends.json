@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T19:13:59.830344+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-08-07T20:04:42.961080+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -49,11 +49,24 @@
             10,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时39分 ~ 19时13分]"
+          "appearance_count": 9,
+          "time_info": "[11时39分 ~ 20时04分]"
+        },
+        {
+          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
+          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时50分 ~ 20时04分]"
         },
         {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
@@ -66,18 +79,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时37分 ~ 14时51分]"
-        },
-        {
-          "title": "“特朗普想缓和对华关系，美国年轻人也不想陷入新冷战”",
-          "url": "https://news.ifeng.com/c/8vOTWxkXcxc",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时50分 ~ 19时13分]"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -100,8 +101,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时04分]"
         },
         {
           "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
@@ -254,7 +255,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时13分"
         },
@@ -295,7 +296,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -332,11 +333,12 @@
             22,
             25,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时37分 ~ 19时13分]"
+          "appearance_count": 10,
+          "time_info": "[08时37分 ~ 20时04分]"
         },
         {
           "title": "梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%，你怎么看？",
@@ -361,6 +363,17 @@
           "time_info": "08时37分"
         },
         {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
           "url": "https://www.toutiao.com/trending/7671088097861307923/",
           "source": "今日头条",
@@ -380,8 +393,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时04分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -429,6 +442,17 @@
           "time_info": "11时39分"
         },
         {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://flash.jin10.com/detail/20260807192609657800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
+        },
+        {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
@@ -453,8 +477,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时37分 ~ 19时13分]"
+          "appearance_count": 10,
+          "time_info": "[08时37分 ~ 20时04分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -478,8 +502,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时13分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时04分]"
         },
         {
           "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
@@ -529,8 +553,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "以情报高官疑因伊朗行动失败被解职",
+          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 20时04分]"
+        },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
           "url": "https://www.cls.cn/detail/2447874",
@@ -543,17 +578,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时37分 ~ 14时51分]"
-        },
-        {
-          "title": "以情报高官疑因伊朗行动失败被解职",
-          "url": "https://news.ifeng.com/c/8vOg4e2X7cf",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 19时13分]"
         },
         {
           "title": "沙特拉响警报：伊朗支持武装或发动多线攻击，能源设施成潜在目标",
@@ -576,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时37分"
+        },
+        {
+          "title": "伊朗发视频隐喻美国国运衰落原因",
+          "url": "https://www.toutiao.com/trending/7671188288800899082/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时04分"
         },
         {
           "title": "伊朗大使馆发视频隐喻美国国运",
@@ -662,9 +697,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 20时04分]"
         },
         {
           "title": "OpenAI为免费用户升级GPT-5.6 Luna",
