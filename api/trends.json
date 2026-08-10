@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:53:17.371665+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-08-10T15:57:49.191850+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -53,11 +53,23 @@
             2,
             9,
             18,
-            25
+            25,
+            10
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时06分 ~ 13时53分]"
+          "appearance_count": 24,
+          "time_info": "[00时06分 ~ 15时57分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 15时57分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -72,17 +84,6 @@
           "time_info": "[00时06分 ~ 08时06分]"
         },
         {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 13时53分]"
-        },
-        {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
           "url": "https://wallstreetcn.com/livenews/3147111",
           "source": "华尔街见闻-快讯",
@@ -95,6 +96,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时06分 ~ 07时39分]"
+        },
+        {
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时52分 ~ 15时57分]"
         },
         {
           "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
@@ -157,17 +169,6 @@
           "time_info": "[04时16分 ~ 06时55分]"
         },
         {
-          "title": "伊朗密集更换高层，释放何种信号？",
-          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时52分 ~ 13时53分]"
-        },
-        {
           "title": "伊朗议会议长卡利巴夫：当今世界已经意识到伊朗是不可屈服的。",
           "url": "https://flash.jin10.com/detail/20260810035338138800",
           "source": "金十数据",
@@ -214,6 +215,18 @@
           "time_info": "[04时16分 ~ 06时55分]"
         },
         {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 15时57分]"
+        },
+        {
           "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
           "url": "https://wallstreetcn.com/livenews/3147123",
           "source": "华尔街见闻-快讯",
@@ -226,6 +239,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时42分 ~ 08时06分]"
+        },
+        {
+          "title": "伊朗外交部发言人：与阿曼的谈判富有建设性且积极。",
+          "url": "https://flash.jin10.com/detail/20260810154228229800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
@@ -252,17 +276,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
-        },
-        {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 13时53分]"
         },
         {
           "title": "据伊朗媒体报道，巴勒斯坦伊斯兰圣战组织谴责以色列总理内塔尼亚胡反对加沙15点计划的行为，称此举公然否认停火协议，并直接反对美国的计划。",
@@ -304,6 +317,17 @@
           "time_info": "[04时58分 ~ 06时55分]"
         },
         {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
           "url": "https://flash.jin10.com/detail/20260810045918536800",
           "source": "金十数据",
@@ -342,6 +366,17 @@
           "time_info": "[00时06分 ~ 00时53分]"
         },
         {
+          "title": "伊朗外交部发言人：与阿曼的谈判旨在确定霍尔木兹海峡的航行路线。",
+          "url": "https://flash.jin10.com/detail/20260810153945438800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
           "url": "https://flash.jin10.com/detail/20260810064649628800",
           "source": "金十数据",
@@ -364,6 +399,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "伊朗外交部发言人：（就麦加防御协定回应称）过去三年间，地区各国已意识到，安全绝非是可以从欺诈性中间商那里购买的商品。任何基于现实、正确识别敌人与威胁的计划，都有助于维护地区安全，并防止以色列制造动荡。",
+          "url": "https://flash.jin10.com/detail/20260810152449467800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "伊朗公布美军基地遭袭前后卫星对比图",
           "url": "https://www.toutiao.com/trending/7671344515512762409/",
           "source": "今日头条",
@@ -373,12 +419,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时33分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们呼吁地区各国在没有外部势力介入的情况下加强关系、增进互信并维护安全。",
+          "url": "https://flash.jin10.com/detail/20260810152044806800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -402,8 +459,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时53分 ~ 13时53分]"
+          "appearance_count": 23,
+          "time_info": "[00时53分 ~ 15时57分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -426,8 +483,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时06分 ~ 13时53分]"
+          "appearance_count": 7,
+          "time_info": "[08时06分 ~ 15时57分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -455,8 +512,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[10时33分 ~ 15时57分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -525,6 +582,17 @@
           "time_info": "[03时44分 ~ 05时42分]"
         },
         {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 15时57分]"
+        },
+        {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
@@ -552,17 +620,6 @@
           "time_info": "[03时44分 ~ 05时42分]"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 13时53分]"
-        },
-        {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
           "url": "https://flash.jin10.com/detail/20260810033626643800",
           "source": "金十数据",
@@ -587,6 +644,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
+        },
+        {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
@@ -607,6 +675,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         },
         {
           "title": "美战机拦截特朗普球场附近飞机",
@@ -644,11 +723,12 @@
             10,
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[03时44分 ~ 13时53分]"
+          "appearance_count": 18,
+          "time_info": "[03时44分 ~ 15时57分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -705,11 +785,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 15时57分]"
         }
       ]
     },
