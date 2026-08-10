@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T07:39:56.392115+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-08-10T08:06:32.661060+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 07时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 08时06分]"
         },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 07时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 08时06分]"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 07时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 08时06分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -47,22 +47,24 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 07时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 08时06分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 07时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 08时06分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -109,6 +111,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时06分 ~ 05时42分]"
+        },
+        {
+          "title": "伊朗高层重要人事变动",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E9%87%8D%E8%A6%81%E4%BA%BA%E4%BA%8B%E5%8F%98%E5%8A%A8%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时57分 ~ 08时06分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
@@ -172,6 +187,20 @@
           "time_info": "[04时16分 ~ 06时55分]"
         },
         {
+          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
+          "url": "https://wallstreetcn.com/livenews/3147123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时42分 ~ 08时06分]"
+        },
+        {
           "title": "在霍尔木兹海峡僵局中，伊朗为何自信能“耗过”美国？",
           "url": "https://flash.jin10.com/detail/20260810022129742800",
           "source": "金十数据",
@@ -185,31 +214,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时00分 ~ 05时42分]"
-        },
-        {
-          "title": "伊朗高层重要人事变动",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E9%87%8D%E8%A6%81%E4%BA%BA%E4%BA%8B%E5%8F%98%E5%8A%A8%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时57分 ~ 06时16分]"
-        },
-        {
-          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
-          "url": "https://wallstreetcn.com/livenews/3147123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 07时39分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗举行经济关系协调委员会会议，重点讨论北部港口在保障基本商品供应中的作用。",
@@ -284,7 +288,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         },
@@ -295,7 +299,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
         }
@@ -303,7 +307,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -325,8 +329,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 07时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 08时06分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -336,8 +340,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 07时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 08时06分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -356,28 +360,40 @@
           "time_info": "[01时38分 ~ 04时58分]"
         },
         {
-          "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
-          "url": "https://flash.jin10.com/detail/20260810071953536800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
           "title": "特朗普称正在“低调处理”伊朗问题",
           "url": "https://wallstreetcn.com/livenews/3147122",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
             10,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时42分 ~ 07时39分]"
+          "appearance_count": 5,
+          "time_info": "[05时42分 ~ 08时06分]"
+        },
+        {
+          "title": "霍尔木兹协议临门一脚却卡死：伊朗抬高条件，特朗普突然降调改打“耐心牌”",
+          "url": "https://flash.jin10.com/detail/20260810071953536800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -448,6 +464,17 @@
           "time_info": "[04时16分 ~ 05时42分]"
         },
         {
+          "title": "特朗普加沙和平计划遭遇重大阻击：内塔尼亚胡拒绝下一阶段安排",
+          "url": "https://flash.jin10.com/detail/20260810075735271800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
@@ -472,8 +499,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 07时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 08时06分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -481,11 +508,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时06分 ~ 07时39分]"
+          "appearance_count": 18,
+          "time_info": "[00时06分 ~ 08时06分]"
         },
         {
           "title": "一边买黄金，一边买美股",
@@ -495,8 +523,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时44分 ~ 07时39分]"
+          "appearance_count": 12,
+          "time_info": "[03时44分 ~ 08时06分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
