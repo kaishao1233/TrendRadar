@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T07:45:31.713167+08:00",
-  "total_titles_processed": 679,
+  "generated_at": "2026-08-11T08:39:38.957091+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 08时39分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -40,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 08时39分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -60,11 +61,12 @@
           "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时27分 ~ 07时45分]"
+          "appearance_count": 6,
+          "time_info": "[04时27分 ~ 08时39分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -90,15 +92,15 @@
           "time_info": "02时33分"
         },
         {
-          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
-          "url": "https://flash.jin10.com/detail/20260811071100479800",
-          "source": "金十数据",
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "08时39分"
         },
         {
           "title": "特朗普政府撤销超17.5万份外国人签证",
@@ -137,6 +139,18 @@
           "time_info": "[02时33分 ~ 03时42分]"
         },
         {
+          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
+          "url": "https://flash.jin10.com/detail/20260811071100479800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 08时39分]"
+        },
+        {
           "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
           "url": "https://flash.jin10.com/detail/20260811011430495800",
           "source": "金十数据",
@@ -172,6 +186,19 @@
           "time_info": "[00时35分 ~ 02时33分]"
         },
         {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3147719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 08时39分]"
+        },
+        {
           "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
           "url": "https://flash.jin10.com/detail/20260811011059897800",
           "source": "金十数据",
@@ -182,18 +209,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3147719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时45分]"
         },
         {
           "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
@@ -278,6 +293,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时10分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         },
         {
           "title": "美国总统特朗普：将《琼斯法案》航运豁免期限延长了90天，同时缩小了豁免范围。运输豁免范围限定于能源商品和化肥。",
@@ -489,6 +515,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "特朗普自曝与美联储主席“通过话”，但强调“就一次”",
+          "url": "https://flash.jin10.com/detail/20260811073104520800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及伊朗战争接下来会发生什么时）你们很快就会知道了。",
           "url": "https://flash.jin10.com/detail/20260811032829058800",
           "source": "金十数据",
@@ -514,7 +551,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -543,11 +580,23 @@
           "url": "https://news.ifeng.com/c/8vUUCRouqKj",
           "source": "凤凰网",
           "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 08时39分]"
+        },
+        {
+          "title": "伊朗最高领袖任命6人担任高级军官",
+          "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "08时39分"
         },
         {
           "title": "伊朗最高领袖将任命数名高级指挥官",
@@ -563,6 +612,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时33分 ~ 06时10分]"
+        },
+        {
+          "title": "只闻其事不见其人，伊朗最高领袖为何总是“隐身”？",
+          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时39分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：不会被诸如经济制裁这些已经失效的手段所“扼杀”。",
@@ -847,6 +907,30 @@
           "time_info": "[00时35分 ~ 05时23分]"
         },
         {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 08时39分]"
+        },
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 08时39分]"
+        },
+        {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
@@ -859,27 +943,16 @@
           "time_info": "[06时10分 ~ 06时58分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
           "source": "财联社热门",
           "ranks": [
-            5,
-            3
+            8,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时45分]"
-        },
-        {
-          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3779052",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "[07时45分 ~ 08时39分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -957,17 +1030,6 @@
           "time_info": "[05时23分 ~ 06时10分]"
         },
         {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
           "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
           "url": "https://flash.jin10.com/detail/20260811040205708800",
           "source": "金十数据",
@@ -985,7 +1047,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -1250,6 +1312,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
+          "url": "https://wallstreetcn.com/livenews/3147721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 08时39分]"
+        },
+        {
           "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
           "url": "https://wallstreetcn.com/livenews/3147629",
           "source": "华尔街见闻-快讯",
@@ -1260,18 +1335,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 02时33分]"
-        },
-        {
-          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
-          "url": "https://wallstreetcn.com/livenews/3147721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 07时45分]"
         }
       ]
     },
