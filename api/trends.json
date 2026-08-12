@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T21:45:00.429371+08:00",
-  "total_titles_processed": 1683,
+  "generated_at": "2026-08-12T22:48:51.711235+08:00",
+  "total_titles_processed": 1778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -226,6 +226,18 @@
           "time_info": "[10时43分 ~ 14时03分]"
         },
         {
+          "title": "伊朗总统向多名新任军事指挥官致贺信",
+          "url": "https://www.toutiao.com/trending/7671934926010744875/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时48分]"
+        },
+        {
           "title": "伊朗革命卫队发言人：如果伊朗再次遭遇威胁，数十万英里的能源输送管线、数千座发电厂、所有美国及非美国的各类系统，乃至接入互联网的全球基础设施都将面临风险。",
           "url": "https://wallstreetcn.com/livenews/3148217",
           "source": "华尔街见闻-快讯",
@@ -310,17 +322,6 @@
           "time_info": "[03时48分 ~ 04时31分]"
         },
         {
-          "title": "伊朗总统向多名新任军事指挥官致贺信",
-          "url": "https://www.toutiao.com/trending/7671934926010744875/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
-        },
-        {
           "title": "巴基斯坦：内政部长向伊朗领导人传递一则“特殊且重要”信息",
           "url": "https://wallstreetcn.com/livenews/3148480",
           "source": "华尔街见闻-快讯",
@@ -382,7 +383,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -407,6 +408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "伊朗：目前使用武器都是自主研发的",
+          "url": "https://www.toutiao.com/trending/7672229042539888694/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
@@ -511,7 +523,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -560,8 +572,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时05分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[20时05分 ~ 22时48分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗只会空谈，不会采取行动。美国对霍尔木兹海峡拥有完全控制权。",
+          "url": "https://flash.jin10.com/detail/20260812223154751800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "特朗普：美国完全控制霍尔木兹海峡。 伊朗只会空谈，没有实际行动。 认为我们将继续完全控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3148690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -571,8 +605,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时05分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[20时05分 ~ 22时48分]"
+        },
+        {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 22时48分]"
         },
         {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
@@ -584,17 +630,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时43分 ~ 15时51分]"
-        },
-        {
-          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 21时45分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -617,8 +652,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时48分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -684,9 +719,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        },
+        {
+          "title": "特朗普考虑削减资本利得税以提升共和党支持率",
+          "url": "https://wallstreetcn.com/livenews/3148682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "特朗普承认：悄悄换乘飞机了",
@@ -879,7 +925,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -962,24 +1008,13 @@
           "time_info": "19时16分"
         },
         {
-          "title": "美国7月通胀表现温和！美股盘初：纳指涨0.9%，光通信股、存储芯片股普涨",
-          "url": "https://wallstreetcn.com/livenews/3148656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
           "title": "美国CPI数据符合预期，美股高开",
           "url": "https://flash.jin10.com/detail/20260812213029025800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1008,6 +1043,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时21分]"
+        },
+        {
+          "title": "美国7月通胀表现温和！美股盘初：纳指涨0.9%，光通信股、存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3148656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时48分]"
         },
         {
           "title": "超微电脑第四财季净销售111.2亿美元，分析师预期112.6亿美元。 第四财季调整后每股收益（EPS）为1.70美元，分析师预期1.59美元。 预计第一财季净销售145亿-155亿美元，分析师预期119.9亿美元。 预计第一财季调整后EPS为1.01-1.10美元，分析师预期0.74美元。 超微电脑美股盘后涨8%。",
@@ -1133,7 +1180,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1144,7 +1191,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1155,7 +1202,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1166,7 +1213,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -1177,9 +1224,129 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超2%，全球科技股ETF涨近2%，能源业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "谷歌将在美洲新增三条海底光缆系统",
+          "url": "https://wallstreetcn.com/livenews/3148264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时22分 ~ 08时07分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
+          "url": "https://flash.jin10.com/detail/20260812012754420800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时39分]"
+        },
+        {
+          "title": "谷歌：Gemini月活用户数超过10亿",
+          "url": "https://wallstreetcn.com/livenews/3148199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时48分]"
+        },
+        {
+          "title": "标普500指数初步收跌0.3%，电信板块跌2.2%，科技板块跌0.2%，能源板块涨0.9%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌5.8%，Honeywell Technologies Inc.跌5.3%，Datadog跌超5%，SpaceX跌4.5%，谷歌A跌3.9%，拼多多ADR跌2.5%，亚马逊跌2%，希捷科技涨2.3%，闪迪涨2.5%，阿斯麦ADR涨3.6%，AXON涨6.7%。",
+          "url": "https://wallstreetcn.com/livenews/3148231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
+          "url": "https://flash.jin10.com/detail/20260812014236644800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        },
+        {
+          "title": "谷歌提高新款手机价格，因内存“严重”短缺",
+          "url": "https://wallstreetcn.com/livenews/3148673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "Google Gemma 4全球下载量突破3亿",
+          "url": "https://flash.jin10.com/detail/20260812101533593800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "谷歌发布PIXEL 11、11 PRO、11 PRO XL和11 PRO折叠屏手机",
+          "url": "https://wallstreetcn.com/livenews/3148672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -1216,8 +1383,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时03分 ~ 21时45分]"
+          "appearance_count": 9,
+          "time_info": "[14时03分 ~ 22时48分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -1257,6 +1424,18 @@
           "time_info": "[12时31分 ~ 14时03分]"
         },
         {
+          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
+          "url": "https://www.zhihu.com/question/2070810807168980648",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 22时48分]"
+        },
+        {
           "title": "梁文锋跻身全球最富有50人之列",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
           "source": "百度热搜",
@@ -1267,17 +1446,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时06分 ~ 10时43分]"
-        },
-        {
-          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
-          "url": "https://www.zhihu.com/question/2070810807168980648",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
         },
         {
           "title": "Chatgpt把Deepseek当宿敌了",
@@ -1393,89 +1561,82 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "keyword_group": "金价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "谷歌将在美洲新增三条海底光缆系统",
-          "url": "https://wallstreetcn.com/livenews/3148264",
-          "source": "华尔街见闻-快讯",
+          "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
+          "url": "https://www.cls.cn/detail/2452735",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            19,
-            25
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 08时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
-          "title": "谷歌(GOOG.O)：将视频点播服务引入Google TV Freeplay。",
-          "url": "https://flash.jin10.com/detail/20260812012754420800",
+          "title": "今晚CPI检验金价反弹成色，这条“危险线”须盯紧！",
+          "url": "https://flash.jin10.com/detail/20260812120053591800",
           "source": "金十数据",
           "ranks": [
-            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
+          "title": "金十图示：2026年08月12日（周三）上海金午盘价为955.85元/克，较国际金价(955.54元/克)，高0.31元/克",
+          "url": "https://flash.jin10.com/detail/20260812151555688800",
+          "source": "金十数据",
+          "ranks": [
             21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
+          "url": "https://wallstreetcn.com/livenews/3148186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时39分]"
         },
         {
-          "title": "谷歌：Gemini月活用户数超过10亿",
-          "url": "https://wallstreetcn.com/livenews/3148199",
+          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3148572",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            25
+            26,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时48分]"
+          "time_info": "[19时16分 ~ 20时06分]"
         },
         {
-          "title": "标普500指数初步收跌0.3%，电信板块跌2.2%，科技板块跌0.2%，能源板块涨0.9%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌5.8%，Honeywell Technologies Inc.跌5.3%，Datadog跌超5%，SpaceX跌4.5%，谷歌A跌3.9%，拼多多ADR跌2.5%，亚马逊跌2%，希捷科技涨2.3%，闪迪涨2.5%，阿斯麦ADR涨3.6%，AXON涨6.7%。",
-          "url": "https://wallstreetcn.com/livenews/3148231",
+          "title": "美国通胀数据并未解开华尔街的疑问 美债市场认为9月加息概率约五成",
+          "url": "https://wallstreetcn.com/livenews/3148669",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
-          "url": "https://flash.jin10.com/detail/20260812014236644800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "Google Gemma 4全球下载量突破3亿",
-          "url": "https://flash.jin10.com/detail/20260812101533593800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3148567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
+          "time_info": "22时48分"
         }
       ]
     },
@@ -1519,64 +1680,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "今晚CPI检验金价反弹成色，这条“危险线”须盯紧！",
-          "url": "https://flash.jin10.com/detail/20260812120053591800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
-          "title": "金十图示：2026年08月12日（周三）上海金午盘价为955.85元/克，较国际金价(955.54元/克)，高0.31元/克",
-          "url": "https://flash.jin10.com/detail/20260812151555688800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
-          "url": "https://wallstreetcn.com/livenews/3148186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时39分]"
-        },
-        {
-          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
-          "url": "https://wallstreetcn.com/livenews/3148572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时06分]"
         }
       ]
     }
