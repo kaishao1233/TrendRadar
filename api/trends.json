@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T15:51:18.757307+08:00",
-  "total_titles_processed": 1269,
+  "generated_at": "2026-08-12T19:16:18.729598+08:00",
+  "total_titles_processed": 1458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -45,6 +45,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 02时39分]"
+        },
+        {
+          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
+          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时43分 ~ 19时16分]"
         },
         {
           "title": "美军情报评估伊朗战略重点已从核计划转向霍尔木兹海峡",
@@ -114,7 +126,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -164,18 +176,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时48分]"
-        },
-        {
-          "title": "伊朗和阿曼“正式开始”向霍尔木兹海峡船舶收费了？",
-          "url": "https://news.ifeng.com/c/8vWSsJCqjj0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时43分 ~ 15时51分]"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗总统会见了巴基斯坦内政部长。",
@@ -316,7 +316,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -349,7 +349,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -371,7 +371,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -431,6 +431,17 @@
           "time_info": "08时07分"
         },
         {
+          "title": "伊朗高级消息人士：正在讨论的问题之一是美国重返谅解备忘录，并确定履行其承诺的时间框架。",
+          "url": "https://flash.jin10.com/detail/20260812185026355800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "伊朗称：条件未满足，霍尔木兹海峡将持续封锁",
           "url": "https://wallstreetcn.com/livenews/3148152",
           "source": "华尔街见闻-快讯",
@@ -440,12 +451,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "伊朗高级消息人士：美国在达成临时协议48小时后便违反了该协议，并在几天后退出了该协议。",
+          "url": "https://flash.jin10.com/detail/20260812185006487800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "伊朗高级消息人士：伊朗和美国之间没有就延长停火进行任何讨论。从伊朗的角度来看，停火协议没有生效日期，因此不存在延长停火协议的必要。",
+          "url": "https://flash.jin10.com/detail/20260812184938905800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -479,11 +512,12 @@
           "ranks": [
             20,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[06时22分 ~ 19时16分]"
         },
         {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
@@ -520,6 +554,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
@@ -665,6 +721,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "特朗普回应“空军一号”调包计：特勤局和军方让我换机，我没多问",
           "url": "https://flash.jin10.com/detail/20260812111839439800",
           "source": "金十数据",
@@ -712,7 +779,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -782,6 +849,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "文远知行第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
@@ -892,6 +970,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
+        },
+        {
+          "title": "7月CPI成为“定方向数据”！不同情景下，美元黄金美股如何反应？",
+          "url": "https://flash.jin10.com/detail/20260812190120326800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "金十图示：2026年08月11日（周二）热门中概股行情一览（美股盘中）",
@@ -1065,6 +1154,19 @@
           "time_info": "[12时31分 ~ 14时03分]"
         },
         {
+          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 19时16分]"
+        },
+        {
           "title": "梁文锋跻身全球最富有50人之列",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
           "source": "百度热搜",
@@ -1075,18 +1177,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时06分 ~ 10时43分]"
-        },
-        {
-          "title": "135家私募打新宇树科技获配：头部量化扎堆入围 ，梁文锋旗下幻方、九章拿下私募最大份额",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33764096",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 15时51分]"
         },
         {
           "title": "Chatgpt把Deepseek当宿敌了",
@@ -1103,7 +1193,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌将在美洲新增三条海底光缆系统",
@@ -1174,6 +1264,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -1242,7 +1343,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         }
@@ -1250,7 +1351,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
@@ -1263,6 +1364,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时39分]"
+        },
+        {
+          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3148572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     }
