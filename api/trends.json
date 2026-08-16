@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T23:32:50.700823+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2026-08-16T23:58:02.652189+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[17时59分 ~ 23时32分]"
+          "appearance_count": 16,
+          "time_info": "[17时59分 ~ 23时58分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[12时44分 ~ 23时32分]"
+          "appearance_count": 25,
+          "time_info": "[12时44分 ~ 23时58分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -116,6 +116,31 @@
           "time_info": "[13时50分 ~ 19时31分]"
         },
         {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://www.toutiao.com/trending/7674484727768301577/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[20时54分 ~ 23时58分]"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://www.toutiao.com/trending/7673769080869191734/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[22时02分 ~ 23时58分]"
+        },
+        {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
           "url": "https://wallstreetcn.com/livenews/3149999",
           "source": "华尔街见闻-快讯",
@@ -146,31 +171,6 @@
           "time_info": "[11时55分 ~ 20时54分]"
         },
         {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://www.toutiao.com/trending/7674484727768301577/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时54分 ~ 23时32分]"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://www.toutiao.com/trending/7673769080869191734/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[22时02分 ~ 23时32分]"
-        },
-        {
           "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3150079",
           "source": "华尔街见闻-快讯",
@@ -178,8 +178,61 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时35分 ~ 23时32分]"
+          "appearance_count": 4,
+          "time_info": "[22时35分 ~ 23时58分]"
+        },
+        {
+          "title": "伊朗军方：每名入境美军悬赏50亿土曼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AF%8F%E5%90%8D%E5%85%A5%E5%A2%83%E7%BE%8E%E5%86%9B%E6%82%AC%E8%B5%8F50%E4%BA%BF%E5%9C%9F%E6%9B%BC",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            20,
+            13,
+            14,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[20时54分 ~ 23时58分]"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://wallstreetcn.com/livenews/3150063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时53分 ~ 23时58分]"
+        },
+        {
+          "title": "伊朗议会通过反渗透法案",
+          "url": "https://wallstreetcn.com/livenews/3150070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时58分]"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://wallstreetcn.com/livenews/3150068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时58分]"
         },
         {
           "title": "伊朗称三名飞行员被卡塔尔活捉",
@@ -195,31 +248,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[15时46分 ~ 18时34分]"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://wallstreetcn.com/livenews/3150063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时53分 ~ 23时32分]"
-        },
-        {
-          "title": "伊朗议会通过反渗透法案",
-          "url": "https://wallstreetcn.com/livenews/3150070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时54分 ~ 23时32分]"
         },
         {
           "title": "伊朗陆军总司令：俘获或击毙美军可获3万美元悬赏",
@@ -238,31 +266,20 @@
           "time_info": "[19时31分 ~ 22时59分]"
         },
         {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://wallstreetcn.com/livenews/3150068",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗议会通过反渗透法案",
+          "url": "https://flash.jin10.com/detail/20260816204802677800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时54分 ~ 23时32分]"
-        },
-        {
-          "title": "伊朗军方：每名入境美军悬赏50亿土曼",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AF%8F%E5%90%8D%E5%85%A5%E5%A2%83%E7%BE%8E%E5%86%9B%E6%82%AC%E8%B5%8F50%E4%BA%BF%E5%9C%9F%E6%9B%BC",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            20,
+            1,
+            9,
             13,
-            14,
-            12
+            15,
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时54分 ~ 23时32分]"
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时58分]"
         },
         {
           "title": "伊朗革命卫队：科威特在关于四名被拘留的伊朗人命运方面向德黑兰隐瞒了信息。",
@@ -279,6 +296,22 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时00分 ~ 20时54分]"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://flash.jin10.com/detail/20260816204422990800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10,
+            14,
+            16,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时58分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗梅赫兰市市长称，几分钟前在梅赫兰听到的爆炸声是由于在伊拉克境内销毁战争遗留弹药的操作所致。",
@@ -308,6 +341,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时04分 ~ 10时55分]"
+        },
+        {
+          "title": "伊朗战争，正在掏空美国弹药库",
+          "url": "https://flash.jin10.com/detail/20260816211830849800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            8,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[22时03分 ~ 23时58分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
@@ -343,7 +391,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "23时32分"
         },
@@ -357,21 +405,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "22时03分"
-        },
-        {
-          "title": "伊朗议会通过反渗透法案",
-          "url": "https://flash.jin10.com/detail/20260816204802677800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            13,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时54分 ~ 23时32分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
@@ -411,21 +444,6 @@
           "time_info": "[15时47分 ~ 18时00分]"
         },
         {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://flash.jin10.com/detail/20260816204422990800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10,
-            14,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时54分 ~ 23时32分]"
-        },
-        {
           "title": "伊朗商会会长：伊朗经济已走出战争冲击",
           "url": "https://flash.jin10.com/detail/20260816161606856800",
           "source": "金十数据",
@@ -456,18 +474,19 @@
           "time_info": "[15时47分 ~ 18时00分]"
         },
         {
-          "title": "伊朗战争，正在掏空美国弹药库",
-          "url": "https://flash.jin10.com/detail/20260816211830849800",
+          "title": "据沙特官方通讯社，吉赞地区已启动空袭警报。 此前，据伊朗塔斯尼姆通讯社称，沙特阿拉伯吉赞炼油厂附近传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260816210430822800",
           "source": "金十数据",
           "ranks": [
-            2,
             6,
-            8,
-            12
+            10,
+            12,
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时03分 ~ 23时32分]"
+          "appearance_count": 5,
+          "time_info": "[22时03分 ~ 23时58分]"
         },
         {
           "title": "伊朗宣布与阿曼达成协议",
@@ -507,20 +526,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时47分 ~ 17时35分]"
-        },
-        {
-          "title": "据沙特官方通讯社，吉赞地区已启动空袭警报。 此前，据伊朗塔斯尼姆通讯社称，沙特阿拉伯吉赞炼油厂附近传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20260816210430822800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时03分 ~ 23时32分]"
         },
         {
           "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
@@ -687,7 +692,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -698,8 +703,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[13时49分 ~ 23时32分]"
+          "appearance_count": 24,
+          "time_info": "[13时49分 ~ 23时58分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -714,21 +719,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时55分 ~ 23时32分]"
-        },
-        {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时00分 ~ 19时53分]"
+          "appearance_count": 26,
+          "time_info": "[11时55分 ~ 23时58分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -742,8 +734,21 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时34分 ~ 23时32分]"
+          "appearance_count": 10,
+          "time_info": "[18时34分 ~ 23时58分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 28,
+          "time_info": "[01时00分 ~ 19时53分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -815,11 +820,26 @@
           "ranks": [
             2,
             4,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时35分 ~ 23时32分]"
+          "appearance_count": 4,
+          "time_info": "[22时35分 ~ 23时58分]"
+        },
+        {
+          "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
+          "url": "https://flash.jin10.com/detail/20260816215609663800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时35分 ~ 23时58分]"
         },
         {
           "title": "美伊谈判内幕遭美媒曝光 特朗普政府曾绕过伊朗谈判代表接触革命卫队",
@@ -837,17 +857,15 @@
           "time_info": "[18时59分 ~ 22时03分]"
         },
         {
-          "title": "市场消息：埃及总统塞西与特朗普女婿库什纳确认了解决地区当前危机的必要性，重申各方必须致力于履行加沙地带战争停火协议下的义务。",
-          "url": "https://flash.jin10.com/detail/20260816215609663800",
+          "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯方面强调，只有各方履行承诺，和平才能实现。",
+          "url": "https://flash.jin10.com/detail/20260816234319301800",
           "source": "金十数据",
           "ranks": [
-            3,
-            5,
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时35分 ~ 23时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "据沙特媒体哈达斯（Alhadath）：消息人士称，特朗普特使库什纳将与哈马斯代表会面，届时将有埃及、土耳其和卡塔尔的调解人出席，库什纳与哈马斯的会晤旨在防止加沙协议的崩溃。",
@@ -1020,8 +1038,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[01时00分 ~ 23时32分]"
+          "appearance_count": 37,
+          "time_info": "[01时00分 ~ 23时58分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -1036,8 +1054,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时51分 ~ 23时32分]"
+          "appearance_count": 29,
+          "time_info": "[09时51分 ~ 23时58分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -1051,8 +1069,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[13时49分 ~ 23时32分]"
+          "appearance_count": 24,
+          "time_info": "[13时49分 ~ 23时58分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -1082,8 +1100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时54分 ~ 23时32分]"
+          "appearance_count": 9,
+          "time_info": "[20时54分 ~ 23时58分]"
         },
         {
           "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
@@ -1143,8 +1161,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[15时09分 ~ 23时32分]"
+          "appearance_count": 22,
+          "time_info": "[15时09分 ~ 23时58分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -1156,8 +1174,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[16时53分 ~ 23时32分]"
+          "appearance_count": 18,
+          "time_info": "[16时53分 ~ 23时58分]"
         },
         {
           "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
