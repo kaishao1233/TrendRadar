@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T13:40:57.069367+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-08-18T14:07:54.494365+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时07分]"
         },
         {
           "title": "特朗普最新支持率公布",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 14时07分]"
         },
         {
           "title": "特朗普：金正恩已回应其对话请求",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时07分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -110,6 +110,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "特朗普以军演为筹码，李在明表态：要为“最坏的情况”做准备",
+          "url": "https://flash.jin10.com/detail/20260818135435807800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
+        },
+        {
           "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
           "url": "https://news.ifeng.com/c/8vgLjEXesPE",
           "source": "凤凰网",
@@ -133,6 +144,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时43分 ~ 06时43分]"
+        },
+        {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时07分]"
         },
         {
           "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
@@ -169,18 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 06时43分]"
-        },
-        {
-          "title": "美国议员：特朗普把欺骗到底当美德",
-          "url": "https://www.toutiao.com/trending/7674814398469947401/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时40分]"
         },
         {
           "title": "特朗普称金正恩已回应其“对话”请求",
@@ -255,6 +267,19 @@
           "time_info": "[04时03分 ~ 06时10分]"
         },
         {
+          "title": "特朗普被曝自己也通过邮寄选票投票",
+          "url": "https://www.toutiao.com/trending/7675157131825905718/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时07分]"
+        },
+        {
           "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
           "url": "https://wallstreetcn.com/livenews/3150694",
           "source": "华尔街见闻-快讯",
@@ -289,18 +314,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时18分]"
-        },
-        {
-          "title": "特朗普被曝自己也通过邮寄选票投票",
-          "url": "https://www.toutiao.com/trending/7675157131825905718/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时40分]"
         },
         {
           "title": "特朗普称金正恩回应其对话请求",
@@ -408,7 +421,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -482,8 +495,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 13时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 14时07分]"
         },
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
@@ -505,8 +518,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时07分]"
         },
         {
           "title": "为向伊朗革命卫队传话，美国找了谁？",
@@ -517,8 +530,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时07分]"
+        },
+        {
+          "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
+          "url": "https://news.ifeng.com/c/8vgY879Eq1Y",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时07分]"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -530,17 +554,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时39分 ~ 06时43分]"
-        },
-        {
-          "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
-          "url": "https://news.ifeng.com/c/8vgY879Eq1Y",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时40分]"
         },
         {
           "title": "伊朗外长：（回应伊拉克外长）伊朗没有理由袭击库尔德斯坦政府首脑官邸。",
@@ -578,6 +591,17 @@
           "time_info": "[00时39分 ~ 02时18分]"
         },
         {
+          "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
+          "url": "https://news.ifeng.com/c/8vgcNfOmDFJ",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时07分]"
+        },
+        {
           "title": "美国能源部长Wright围绕伊朗问题宣称：美国正在玩长期游戏。",
           "url": "https://wallstreetcn.com/livenews/3150630",
           "source": "华尔街见闻-快讯",
@@ -588,6 +612,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时18分]"
+        },
+        {
+          "title": "伊拉克调查库区无人机事件 伊朗提醒警惕栽赃嫁祸",
+          "url": "https://wallstreetcn.com/livenews/3150851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时40分 ~ 14时07分]"
         },
         {
           "title": "美国能源部长赖特：（关于伊朗）美国正采取长期策略。",
@@ -614,15 +650,16 @@
           "time_info": "[01时43分 ~ 02时18分]"
         },
         {
-          "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
-          "url": "https://news.ifeng.com/c/8vgcNfOmDFJ",
-          "source": "凤凰网",
+          "title": "伊朗议会议长卡利巴夫今日将访问伊拉克",
+          "url": "https://flash.jin10.com/detail/20260818132040807800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时40分]"
+          "time_info": "[13时40分 ~ 14时07分]"
         },
         {
           "title": "伊朗最高领袖顾问：美国的未来将由“家庭餐桌”而非“作战室”决定",
@@ -673,17 +710,6 @@
           "time_info": "[01时43分 ~ 02时18分]"
         },
         {
-          "title": "伊拉克调查库区无人机事件 伊朗提醒警惕栽赃嫁祸",
-          "url": "https://wallstreetcn.com/livenews/3150851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
-        },
-        {
           "title": "市场消息：伊朗高级官员否认伊朗参与了针对伊拉克库尔德自治区总理位于埃尔比勒办公室的无人机袭击。该官员表示，这一事件是又一次假旗行动，与伊朗无关。",
           "url": "https://flash.jin10.com/detail/20260817234909312800",
           "source": "金十数据",
@@ -704,17 +730,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫今日将访问伊拉克",
-          "url": "https://flash.jin10.com/detail/20260818132040807800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时40分"
         },
         {
           "title": "美国能源部长Wright：（美国）战略石油储备（SPR）目前仍保有3亿桶库存，伊朗冲突结束后，其储备量将高于冲突前水平。 美国政府将在未来几日公布若干举措，助力炼油企业提高燃料产量。",
@@ -745,7 +760,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -756,7 +771,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -767,7 +782,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时40分"
         },
@@ -807,8 +822,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时07分]"
         },
         {
           "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
@@ -818,8 +833,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时07分]"
         },
         {
           "title": "美债抛售持续，30年期美债收益率创2007年以来最高水平",
@@ -842,8 +857,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 14时07分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
@@ -855,8 +870,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 13时40分]"
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 14时07分]"
         },
         {
           "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
@@ -1263,8 +1278,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 13时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 14时07分]"
         }
       ]
     }
